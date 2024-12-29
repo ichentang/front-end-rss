@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-22T18:24:37.852Z</updated>
+    <updated>2024-12-29T16:22:59.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[HTML select下拉框支持hr元素啦]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/"/>
+        <updated>2024-12-29T00:00:00.000Z</updated>
+        <published>2024-12-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使用JS获取系统内存、CPU/GPU、电量等信息]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2025年，Vue3 即将崛起！！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524597&amp;idx=1&amp;sn=d5e1088e8821c95c1b08b569ba558557&amp;chksm=f9926624cee5ef321a921ffd8d439219e1b78508a269f57f7a4160f9ad80e9698e305a698f1a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524597&amp;idx=1&amp;sn=d5e1088e8821c95c1b08b569ba558557&amp;chksm=f9926624cee5ef321a921ffd8d439219e1b78508a269f57f7a4160f9ad80e9698e305a698f1a#rd"/>
-        <updated>2024-12-10T00:00:00.000Z</updated>
-        <published>2024-12-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】浏览器扩展程序攻击]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274484&amp;idx=1&amp;sn=6e50ccc6ca737dbe24e5089d9f3105ed&amp;chksm=bcd1a23deaaaddbf5a08b506830311e2066ac309529d52862f2922eaac135794041fb9255bc2&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274484&amp;idx=1&amp;sn=6e50ccc6ca737dbe24e5089d9f3105ed&amp;chksm=bcd1a23deaaaddbf5a08b506830311e2066ac309529d52862f2922eaac135794041fb9255bc2&amp;scene=0#rd"/>
         <updated>2024-12-10T00:00:00.000Z</updated>
         <published>2024-12-10T00:00:00.000Z</published>
     </entry>
