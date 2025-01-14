@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-12T16:22:46.012Z</updated>
+    <updated>2025-01-14T16:25:15.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[如何手搓SVG半圆弧，手把手教程]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/"/>
+        <updated>2025-01-14T00:00:00.000Z</updated>
+        <published>2025-01-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 is going to be a bold year for Express.js]]></title>
+        <id>https://nodeweekly.com/issues/562</id>
+        <link href="https://nodeweekly.com/issues/562"/>
+        <updated>2025-01-14T00:00:00.000Z</updated>
+        <published>2025-01-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Broadcast Channel API简介，可实现Web页面广播通信]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[全新的CSS相对颜色语法-使用from和calc()]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/"/>
-        <updated>2024-12-11T00:00:00.000Z</updated>
-        <published>2024-12-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[antd 对 ai 下手了！Vue 开发者表示羡慕！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516910&amp;idx=1&amp;sn=020001d07614212b26fcd43c390d5639&amp;chksm=eb07ba97dc703381f7dbbcf9643321878b5d587c68b56d5b3de636ba5291f22adab2b465324b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516910&amp;idx=1&amp;sn=020001d07614212b26fcd43c390d5639&amp;chksm=eb07ba97dc703381f7dbbcf9643321878b5d587c68b56d5b3de636ba5291f22adab2b465324b#rd"/>
-        <updated>2024-12-11T00:00:00.000Z</updated>
-        <published>2024-12-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[项目中常用的Nginx配置总结]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524614&amp;idx=1&amp;sn=fd17c885a2ef8dc88b5e928468bccefd&amp;chksm=f99267d7cee5eec13e2668572a46cd83ea72f30ec5bc9caae7374ba4930756cdb18552b4b005#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524614&amp;idx=1&amp;sn=fd17c885a2ef8dc88b5e928468bccefd&amp;chksm=f99267d7cee5eec13e2668572a46cd83ea72f30ec5bc9caae7374ba4930756cdb18552b4b005#rd"/>
         <updated>2024-12-11T00:00:00.000Z</updated>
         <published>2024-12-11T00:00:00.000Z</published>
     </entry>
