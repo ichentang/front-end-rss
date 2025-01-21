@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-17T16:24:32.375Z</updated>
+    <updated>2025-01-21T16:26:07.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[NodeBB, the Node.js powered forum system]]></title>
+        <id>https://nodeweekly.com/issues/563</id>
+        <link href="https://nodeweekly.com/issues/563"/>
+        <updated>2025-01-21T00:00:00.000Z</updated>
+        <published>2025-01-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An introduction to building live collaborative JS apps]]></title>
         <id>https://javascriptweekly.com/issues/719</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【早阅】 2024年HTML现状调查报告]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274558&amp;idx=1&amp;sn=b5d5e5e13d8d5531c5ed0f3faacc6574&amp;chksm=bc2a92f23a31e63a6a6293ab24ba6b632080c3e93d114f0528d26dae816a4474300da93a4537&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274558&amp;idx=1&amp;sn=b5d5e5e13d8d5531c5ed0f3faacc6574&amp;chksm=bc2a92f23a31e63a6a6293ab24ba6b632080c3e93d114f0528d26dae816a4474300da93a4537&amp;scene=0#rd"/>
-        <updated>2024-12-12T00:00:00.000Z</updated>
-        <published>2024-12-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking Node's recent performance enhancements]]></title>
-        <id>https://javascriptweekly.com/issues/716</id>
-        <link href="https://javascriptweekly.com/issues/716"/>
         <updated>2024-12-12T00:00:00.000Z</updated>
         <published>2024-12-12T00:00:00.000Z</published>
     </entry>
