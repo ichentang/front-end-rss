@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-29 00:25:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-01 02:26:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564) ![](/assets/new.png)  
+- [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)  
 - [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
 - [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2025-01-31-A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721) ![](/assets/new.png)  
 - [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720)  
 - [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)  
 - [2025-01-10-The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)  
@@ -95,7 +96,6 @@
 - [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)  
 - [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)  
 - [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)  
-- [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

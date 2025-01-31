@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-29 00:25:10。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-02-01 02:26:54。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -580,6 +580,7 @@
 
 - [【Node-Weekly】Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)
 - [【Node-Weekly】A-big-week-for-Fastify](https://nodeweekly.com/issues/441)
+- [【JavaScript-Weekly】A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)
 - [【前端早读课】【第3426期】TinyEngine低代码引擎2.0新特性介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=1&sn=c57c95837e500713bbec90ffefcdab9f&chksm=bc0ea27c4ced7203b919f25e725af0d1955d7b6f48e6075e74f3e0552c40c3cf01a0922dd0e9&scene=0#rd)
 - [【前端早读课】【第3421期】vercel是如何做微前端迁移的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274265&idx=1&sn=38831d124f11aa352541dbe6f3c06206&chksm=bcad4b309fbc742ec55d204ee17b6219aa6f8dbf4bf2d6885aeda534b9bad6092076e1020305&scene=0#rd)
 - [【前端早读课】【第3143期】如何提升微前端场景下的研发效能？微前端管理平台的设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268059&idx=1&sn=f0405c1ff8a64c5abe40eb61e80e2b0b&chksm=bd48fa5f8a3f7349be0b2b48974e3f079a7a86228c00d2338f4841f7f3011008cb1d55a5848d#rd)
@@ -597,7 +598,6 @@
 - [【前端早读课】【第3070期】低代码引擎-TinyEngine-正式发布！！！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266039&idx=1&sn=04cf0bb1062675bef8b362c48fae443a&chksm=bd48c2738a3f4b65c79e9ddfeba6f781d8104674e2bb71285ba43a64566bac95ed9c69d9ac42#rd)
 - [【前端早读课】【第3049期】网易云音乐-Tango-低代码引擎正式开源！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265629&idx=1&sn=891574c0f734adc2c22b8046e923ca2f&chksm=bd48c3d98a3f4acf01986a82245d557acf86b267484d0d30eb063f94ef8ee170ddfd71dbedba#rd)
 - [【前端早读课】【第3001期】字节跳动的前端工程化实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264011&idx=1&sn=bfc5b9233cfcc6721537c6fff87fbd02&chksm=bd48cd8f8a3f4499e05337679ffa8d079158f7ac6d5e0560c0aa50cf70f390513bcb428e3525#rd)
-- [【前端早读课】【第2967期】探索主流前端框架的响应式原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263167&idx=1&sn=e435ab8a60c094f0698fcbe66e7ec950&chksm=bd48c93b8a3f402dfb5cfff9292700232db6c728b74753a220c746da486fd6886f2b49082da6#rd)
 - [......【查看更多】......](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
