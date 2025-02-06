@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-04T16:25:04.438Z</updated>
+    <updated>2025-02-06T14:17:36.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS Array数组新的with方法，你知道作用吗？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <published>2025-02-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A TypeScript release targeted at Node developers]]></title>
         <id>https://nodeweekly.com/issues/565</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[NPM 作者推出全新的 JavaScript 包管理器！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621657&amp;idx=1&amp;sn=c1b5ef3f19dab981badd536b0ea32ca3&amp;chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621657&amp;idx=1&amp;sn=c1b5ef3f19dab981badd536b0ea32ca3&amp;chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd"/>
-        <updated>2024-12-13T00:00:00.000Z</updated>
-        <published>2024-12-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
