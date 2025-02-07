@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-06T14:17:36.148Z</updated>
+    <updated>2025-02-07T16:24:44.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Oracle dabbles in some JavaScript comedy]]></title>
+        <id>https://javascriptweekly.com/issues/722</id>
+        <link href="https://javascriptweekly.com/issues/722"/>
+        <updated>2025-02-07T00:00:00.000Z</updated>
+        <published>2025-02-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS Array数组新的with方法，你知道作用吗？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[纯 CSS 来计算当前窗口的宽高，怎么做到的？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501528&amp;idx=1&amp;sn=f09794594f3300e8847cd547abcc5d1e&amp;chksm=ce45d349f9325a5faae0156b43fe84c80a5409e0a519b12573af44545fc49ce9dd814a2f33b6#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501528&amp;idx=1&amp;sn=f09794594f3300e8847cd547abcc5d1e&amp;chksm=ce45d349f9325a5faae0156b43fe84c80a5409e0a519b12573af44545fc49ce9dd814a2f33b6#rd"/>
-        <updated>2024-12-13T00:00:00.000Z</updated>
-        <published>2024-12-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPM 作者推出全新的 JavaScript 包管理器！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621657&amp;idx=1&amp;sn=c1b5ef3f19dab981badd536b0ea32ca3&amp;chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621657&amp;idx=1&amp;sn=c1b5ef3f19dab981badd536b0ea32ca3&amp;chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
