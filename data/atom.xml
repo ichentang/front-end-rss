@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-07T16:24:44.856Z</updated>
+    <updated>2025-02-10T14:19:52.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS Set新支持了intersection, union, difference等方法]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <published>2025-02-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oracle dabbles in some JavaScript comedy]]></title>
         <id>https://javascriptweekly.com/issues/722</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Ant Design X 1.0 发布，全新 AGI 组件库！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524645&amp;idx=2&amp;sn=82234cb78e72ae9334f3cf65ce298d7d&amp;chksm=f99267f4cee5eee2126d184b880f527758c467bebd47ba01f97d317cd9c64d2447fbfda2ca48#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524645&amp;idx=2&amp;sn=82234cb78e72ae9334f3cf65ce298d7d&amp;chksm=f99267f4cee5eee2126d184b880f527758c467bebd47ba01f97d317cd9c64d2447fbfda2ca48#rd"/>
-        <updated>2024-12-13T00:00:00.000Z</updated>
-        <published>2024-12-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯 CSS 来计算当前窗口的宽高，怎么做到的？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501528&amp;idx=1&amp;sn=f09794594f3300e8847cd547abcc5d1e&amp;chksm=ce45d349f9325a5faae0156b43fe84c80a5409e0a519b12573af44545fc49ce9dd814a2f33b6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501528&amp;idx=1&amp;sn=f09794594f3300e8847cd547abcc5d1e&amp;chksm=ce45d349f9325a5faae0156b43fe84c80a5409e0a519b12573af44545fc49ce9dd814a2f33b6#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
