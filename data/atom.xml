@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-11T16:27:31.174Z</updated>
+    <updated>2025-02-12T14:19:38.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[不要搞混了，不是text而是CSS font-size-adjust属性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <published>2025-02-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS Set新支持了intersection, union, difference等方法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524660&amp;idx=1&amp;sn=49a6c071558a68efe9a01576d9c73bf6&amp;chksm=f99267e5cee5eef3ce0544a53a9c2b3c11131ada9af5b424d6e33e194477c7ef9f19c1db193f#rd"/>
         <updated>2024-12-14T00:00:00.000Z</updated>
         <published>2024-12-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ant Design X 1.0 发布，全新 AGI 组件库！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524645&amp;idx=2&amp;sn=82234cb78e72ae9334f3cf65ce298d7d&amp;chksm=f99267f4cee5eee2126d184b880f527758c467bebd47ba01f97d317cd9c64d2447fbfda2ca48#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524645&amp;idx=2&amp;sn=82234cb78e72ae9334f3cf65ce298d7d&amp;chksm=f99267f4cee5eee2126d184b880f527758c467bebd47ba01f97d317cd9c64d2447fbfda2ca48#rd"/>
-        <updated>2024-12-13T00:00:00.000Z</updated>
-        <published>2024-12-13T00:00:00.000Z</published>
     </entry>
 </feed>
