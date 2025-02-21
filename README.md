@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-15 00:24:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-21 22:18:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -76,7 +76,8 @@
 </summary>
 
 
-- [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723) ![](/assets/new.png)  
+- [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724) ![](/assets/new.png)  
+- [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
 - [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)  
 - [2025-01-31-A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)  
 - [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720)  
@@ -95,7 +96,6 @@
 - [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707)  
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706)  
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)  
-- [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
