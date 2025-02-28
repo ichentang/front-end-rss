@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-28T02:55:20.789Z</updated>
+    <updated>2025-02-28T16:26:57.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Doom for TypeScript types]]></title>
+        <id>https://javascriptweekly.com/issues/725</id>
+        <link href="https://javascriptweekly.com/issues/725"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <published>2025-02-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 23.8 introduces the URL Pattern API]]></title>
         <id>https://nodeweekly.com/issues/567</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2024 年前端性能报告]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524673&amp;idx=1&amp;sn=1c3b815b127a8136ef6414a5bfe28ff8&amp;chksm=f9926790cee5ee8662e0dc4e8317809d3c1d1397afbc8acad615419c193959a1c568c0a9d76d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524673&amp;idx=1&amp;sn=1c3b815b127a8136ef6414a5bfe28ff8&amp;chksm=f9926790cee5ee8662e0dc4e8317809d3c1d1397afbc8acad615419c193959a1c568c0a9d76d#rd"/>
-        <updated>2024-12-15T00:00:00.000Z</updated>
-        <published>2024-12-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何做静态资源预加载]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524673&amp;idx=2&amp;sn=ca9ac585172b1834249c83fb781a53fd&amp;chksm=f9926790cee5ee864343832d2d2147d5a0966f568a833c901070cc280e3b5138033e5d010231#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524673&amp;idx=2&amp;sn=ca9ac585172b1834249c83fb781a53fd&amp;chksm=f9926790cee5ee864343832d2d2147d5a0966f568a833c901070cc280e3b5138033e5d010231#rd"/>
         <updated>2024-12-15T00:00:00.000Z</updated>
         <published>2024-12-15T00:00:00.000Z</published>
     </entry>
