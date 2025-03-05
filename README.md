@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-05 00:27:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-06 00:33:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568) ![](/assets/new.png)  
+- [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
 - [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)  
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)  
 - [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)  
@@ -510,6 +510,7 @@
 </summary>
 
 
+- [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/) ![](/assets/new.png)  
 - [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)  
 - [2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/)  
 - [2025-02-10-JS-Set新支持了intersection,-union,-difference等方法](https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/)  
@@ -529,7 +530,6 @@
 - [2024-11-14-这啥?CSS-calc-size和interpolate-size,真学不动了](https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/)  
 - [2024-11-11-趁热打铁，SVG-feColorMatrix滤镜gogogo!](https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/)  
 - [2024-10-31-Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/)  
-- [2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
