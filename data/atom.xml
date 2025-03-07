@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-05T16:33:21.186Z</updated>
+    <updated>2025-03-07T16:26:31.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[The current state of JavaScript on the Web]]></title>
+        <id>https://javascriptweekly.com/issues/726</id>
+        <link href="https://javascriptweekly.com/issues/726"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <published>2025-03-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[终于等到了，CSS offset-path全浏览器全支持]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[开发在线协同文档编辑器，应该考虑哪些重要的点？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501557&amp;idx=1&amp;sn=87d8e6ac3e5f241f7734b8f137e9119e&amp;chksm=ce45d364f9325a7242bca1a3990532e14a084689d91452eacb1d899aa4854c68f7f8cf87f733#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501557&amp;idx=1&amp;sn=87d8e6ac3e5f241f7734b8f137e9119e&amp;chksm=ce45d364f9325a7242bca1a3990532e14a084689d91452eacb1d899aa4854c68f7f8cf87f733#rd"/>
-        <updated>2024-12-16T00:00:00.000Z</updated>
-        <published>2024-12-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用Chrome浏览器使用Overrides调试线上代码，真是太方便啦！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621662&amp;idx=1&amp;sn=23f2c3ad8a8ff737787aff4210c899bb&amp;chksm=80225edfb755d7c9ac678230ca6581e4cb2fb62cc76a3636fd54a57a48cf51b564393cb9b5c2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621662&amp;idx=1&amp;sn=23f2c3ad8a8ff737787aff4210c899bb&amp;chksm=80225edfb755d7c9ac678230ca6581e4cb2fb62cc76a3636fd54a57a48cf51b564393cb9b5c2#rd"/>
         <updated>2024-12-16T00:00:00.000Z</updated>
         <published>2024-12-16T00:00:00.000Z</published>
     </entry>
