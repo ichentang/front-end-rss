@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-21T16:27:35.601Z</updated>
+    <updated>2025-03-22T10:21:42.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -100,6 +100,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
+        <id>https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
+        <link href="https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
+        <updated>2025-02-09T00:00:00.000Z</updated>
+        <published>2025-02-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
         <id>https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
         <link href="https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
         <updated>2025-02-09T00:00:00.000Z</updated>
@@ -188,6 +195,13 @@
         <link href="https://javascriptweekly.com/issues/718"/>
         <updated>2025-01-10T00:00:00.000Z</updated>
         <published>2025-01-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
+        <id>https://fenghen.me/posts/2025/01/07/opfs-finder/</id>
+        <link href="https://fenghen.me/posts/2025/01/07/opfs-finder/"/>
+        <updated>2025-01-07T00:00:00.000Z</updated>
+        <published>2025-01-07T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[5年前端刚会用VsCode Debug Vue项目]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=1&amp;sn=794eed56ce09ea37fa0b632c42dce09c&amp;chksm=f99267b0cee5eea69846ca5c498eb3a09b172c78bc3abd6eff9f077686013da59e25a5b62ec1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=1&amp;sn=794eed56ce09ea37fa0b632c42dce09c&amp;chksm=f99267b0cee5eea69846ca5c498eb3a09b172c78bc3abd6eff9f077686013da59e25a5b62ec1#rd"/>
-        <updated>2024-12-17T00:00:00.000Z</updated>
-        <published>2024-12-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】JavaScript 工具库演变：从 Lodash 和 Underscore 到原生 JavaScript]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274666&amp;idx=1&amp;sn=05ae34593f07398c82d0568a0f011ea5&amp;chksm=bc1f4dc5f4ece3a8573c0926cf191d1a3628126bc2312b16cf54c812bbfc77533ca601c19794&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274666&amp;idx=1&amp;sn=05ae34593f07398c82d0568a0f011ea5&amp;chksm=bc1f4dc5f4ece3a8573c0926cf191d1a3628126bc2312b16cf54c812bbfc77533ca601c19794&amp;scene=0#rd"/>
-        <updated>2024-12-17T00:00:00.000Z</updated>
-        <published>2024-12-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A look back at Node's 2024]]></title>
-        <id>https://nodeweekly.com/issues/560</id>
-        <link href="https://nodeweekly.com/issues/560"/>
         <updated>2024-12-17T00:00:00.000Z</updated>
         <published>2024-12-17T00:00:00.000Z</published>
     </entry>
