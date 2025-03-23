@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-22 18:21:42，:rocket: 更新条数: +80， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-24 00:24:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,11 +31,11 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -510,6 +510,7 @@
 </summary>
 
 
+- [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/) ![](/assets/new.png)  
 - [2025-03-17-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/)  
 - [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/)  
 - [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  
@@ -529,7 +530,6 @@
 - [2024-11-29-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/)  
 - [2024-11-25-CSS-Grid布局中的subgrid的适用场景](https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/)  
 - [2024-11-17-JS文本选区变化selectionchange事件实践小记](https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/)  
-- [2024-11-14-这啥?CSS-calc-size和interpolate-size,真学不动了](https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -635,25 +635,25 @@
 
 
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
-- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) ![](/assets/new.png)  
+- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
 - [2025-02-09-从-React-看前端-UI-代码范式革命](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
-- [2025-02-09-从-React-看前端-UI-代码范式革命](https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/) ![](/assets/new.png)  
+- [2025-02-09-从-React-看前端-UI-代码范式革命](https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
 - [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://hughfenghen.github.io/posts/2025/01/22/proxy-switch-cli/)  
-- [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://fenghen.me/posts/2025/01/22/proxy-switch-cli/) ![](/assets/new.png)  
+- [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://fenghen.me/posts/2025/01/22/proxy-switch-cli/)  
 - [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/)  
-- [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://fenghen.me/posts/2025/01/07/opfs-finder/) ![](/assets/new.png)  
+- [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://fenghen.me/posts/2025/01/07/opfs-finder/)  
 - [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released-en/)  
 - [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/)  
-- [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://fenghen.me/posts/2024/10/31/webav-v1-released-en/) ![](/assets/new.png)  
-- [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://fenghen.me/posts/2024/10/31/webav-v1-released/) ![](/assets/new.png)  
+- [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://fenghen.me/posts/2024/10/31/webav-v1-released-en/)  
+- [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://fenghen.me/posts/2024/10/31/webav-v1-released/)  
 - [2024-10-28-Pure-Web-Video-Editing](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor-en/)  
 - [2024-10-28-纯-Web-视频剪辑](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/)  
-- [2024-10-28-Pure-Web-Video-Editing](https://fenghen.me/posts/2024/10/28/webav-video-editor-en/) ![](/assets/new.png)  
-- [2024-10-28-纯-Web-视频剪辑](https://fenghen.me/posts/2024/10/28/webav-video-editor/) ![](/assets/new.png)  
+- [2024-10-28-Pure-Web-Video-Editing](https://fenghen.me/posts/2024/10/28/webav-video-editor-en/)  
+- [2024-10-28-纯-Web-视频剪辑](https://fenghen.me/posts/2024/10/28/webav-video-editor/)  
 - [2024-08-24-手残党的【黑神话·悟空】笔记](https://hughfenghen.github.io/posts/2024/08/24/black-myth-wukong/)  
-- [2024-08-24-手残党的【黑神话·悟空】笔记](https://fenghen.me/posts/2024/08/24/black-myth-wukong/) ![](/assets/new.png)  
+- [2024-08-24-手残党的【黑神话·悟空】笔记](https://fenghen.me/posts/2024/08/24/black-myth-wukong/)  
 - [2024-08-13-Google-IO-分享-WebCodecs、OPFS-文字版](https://hughfenghen.github.io/posts/2024/08/13/google-io-webcodecs-opfs/)  
-- [2024-08-13-Google-IO-分享-WebCodecs、OPFS-文字版](https://fenghen.me/posts/2024/08/13/google-io-webcodecs-opfs/) ![](/assets/new.png)  
+- [2024-08-13-Google-IO-分享-WebCodecs、OPFS-文字版](https://fenghen.me/posts/2024/08/13/google-io-webcodecs-opfs/)  
 - [......【查看更多】......](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

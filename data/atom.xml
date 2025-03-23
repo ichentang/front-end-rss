@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-22T10:21:42.914Z</updated>
+    <updated>2025-03-23T16:24:32.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[研究下attachInternals方法，可让普通元素有表单特性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/"/>
+        <updated>2025-03-23T00:00:00.000Z</updated>
+        <published>2025-03-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 20 gains require(esm) support by default]]></title>
         <id>https://nodeweekly.com/issues/570</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端：为什么 try catch 能捕捉 await 后 Promise 的错误？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=2&amp;sn=ff39e9614bf85407cc2f116efd6ec64d&amp;chksm=f99267b0cee5eea6da62cb78bd149a0a8bac05fc1b77d8b476f201b1d529148a92327a18cabc#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=2&amp;sn=ff39e9614bf85407cc2f116efd6ec64d&amp;chksm=f99267b0cee5eea6da62cb78bd149a0a8bac05fc1b77d8b476f201b1d529148a92327a18cabc#rd"/>
-        <updated>2024-12-17T00:00:00.000Z</updated>
-        <published>2024-12-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5年前端刚会用VsCode Debug Vue项目]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=1&amp;sn=794eed56ce09ea37fa0b632c42dce09c&amp;chksm=f99267b0cee5eea69846ca5c498eb3a09b172c78bc3abd6eff9f077686013da59e25a5b62ec1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=1&amp;sn=794eed56ce09ea37fa0b632c42dce09c&amp;chksm=f99267b0cee5eea69846ca5c498eb3a09b172c78bc3abd6eff9f077686013da59e25a5b62ec1#rd"/>
         <updated>2024-12-17T00:00:00.000Z</updated>
         <published>2024-12-17T00:00:00.000Z</published>
     </entry>
