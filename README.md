@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-24 00:24:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-25 22:22:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571) ![](/assets/new.png)  
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)  
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)  
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
@@ -64,7 +65,6 @@
 - [2024-11-05-Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554)  
 - [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)  
 - [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
-- [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/) ![](/assets/new.png)  
+- [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/)  
 - [2025-03-17-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/)  
 - [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/)  
 - [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  

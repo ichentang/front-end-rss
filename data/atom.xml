@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-23T16:24:32.492Z</updated>
+    <updated>2025-03-25T14:22:17.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node gets the URLPattern API]]></title>
+        <id>https://nodeweekly.com/issues/571</id>
+        <link href="https://nodeweekly.com/issues/571"/>
+        <updated>2025-03-25T00:00:00.000Z</updated>
+        <published>2025-03-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究下attachInternals方法，可让普通元素有表单特性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274730&amp;idx=1&amp;sn=1f98bafae58b98bef830996b28a0b4c0&amp;chksm=bc6cc6a2879e732958aff78ae494cf9954e55b374722d121559838b91e6614d388b32c629135&amp;scene=0#rd"/>
         <updated>2024-12-18T00:00:00.000Z</updated>
         <published>2024-12-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端：为什么 try catch 能捕捉 await 后 Promise 的错误？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=2&amp;sn=ff39e9614bf85407cc2f116efd6ec64d&amp;chksm=f99267b0cee5eea6da62cb78bd149a0a8bac05fc1b77d8b476f201b1d529148a92327a18cabc#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=2&amp;sn=ff39e9614bf85407cc2f116efd6ec64d&amp;chksm=f99267b0cee5eea6da62cb78bd149a0a8bac05fc1b77d8b476f201b1d529148a92327a18cabc#rd"/>
-        <updated>2024-12-17T00:00:00.000Z</updated>
-        <published>2024-12-17T00:00:00.000Z</published>
     </entry>
 </feed>
