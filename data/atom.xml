@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-01T16:27:14.542Z</updated>
+    <updated>2025-04-04T16:26:59.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript trademark fight rumbles on]]></title>
+        <id>https://javascriptweekly.com/issues/730</id>
+        <link href="https://javascriptweekly.com/issues/730"/>
+        <updated>2025-04-04T00:00:00.000Z</updated>
+        <published>2025-04-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Express 5.x enters the limelight]]></title>
         <id>https://nodeweekly.com/issues/572</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[大前端：如何突破动态化容器的天花板？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516947&amp;idx=1&amp;sn=71944e56d60569763a7eace7a52200be&amp;chksm=eb07bb6adc70327c8b20df1ff343a6718ff7d983c4fc04215e7bd45fe63d13cb180cc20876e4#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516947&amp;idx=1&amp;sn=71944e56d60569763a7eace7a52200be&amp;chksm=eb07bb6adc70327c8b20df1ff343a6718ff7d983c4fc04215e7bd45fe63d13cb180cc20876e4#rd"/>
-        <updated>2024-12-18T00:00:00.000Z</updated>
-        <published>2024-12-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 开始反击了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524721&amp;idx=2&amp;sn=5b401dc7230980c31554df40b9ec0659&amp;chksm=f99267a0cee5eeb6937acde062c565862d4fe73c1522d18ddd7993d97f7884b00f64a65a5825#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524721&amp;idx=2&amp;sn=5b401dc7230980c31554df40b9ec0659&amp;chksm=f99267a0cee5eeb6937acde062c565862d4fe73c1522d18ddd7993d97f7884b00f64a65a5825#rd"/>
         <updated>2024-12-18T00:00:00.000Z</updated>
         <published>2024-12-18T00:00:00.000Z</published>
     </entry>
