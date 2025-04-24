@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-22T16:28:20.877Z</updated>
+    <updated>2025-04-24T08:30:19.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[介绍两个DOM新方法setHTMLUnsafe和getHTML]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/"/>
+        <updated>2025-04-24T00:00:00.000Z</updated>
+        <published>2025-04-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Handling V8's memory usage and GC]]></title>
         <id>https://nodeweekly.com/issues/575</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[JavaScript「红宝书」第5版来了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500099&amp;idx=1&amp;sn=691a075d9324f25314c90f96d41793e2&amp;chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500099&amp;idx=1&amp;sn=691a075d9324f25314c90f96d41793e2&amp;chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd"/>
-        <updated>2024-12-19T00:00:00.000Z</updated>
-        <published>2024-12-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来战！「豆包 MarsCode 算法竞技赛」第二期开赛，丰厚奖金等你来拿]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505932&amp;idx=1&amp;sn=1d1f4992b94857558b59a4edc053d342&amp;chksm=cea96f0df9dee61b03779f13e0ffb53eb82687911f9366faa2d6fe26dd19ee122f35f9c49037#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505932&amp;idx=1&amp;sn=1d1f4992b94857558b59a4edc053d342&amp;chksm=cea96f0df9dee61b03779f13e0ffb53eb82687911f9366faa2d6fe26dd19ee122f35f9c49037#rd"/>
         <updated>2024-12-19T00:00:00.000Z</updated>
         <published>2024-12-19T00:00:00.000Z</published>
     </entry>
