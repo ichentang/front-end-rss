@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-29T08:31:31.311Z</updated>
+    <updated>2025-04-29T14:23:09.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[告别transform，是时候直接使用scale, rotate属性啦]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/"/>
+        <updated>2025-04-29T00:00:00.000Z</updated>
+        <published>2025-04-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koa 3.0, Node 22.15.0, and a V8 boost]]></title>
+        <id>https://nodeweekly.com/issues/576</id>
+        <link href="https://nodeweekly.com/issues/576"/>
         <updated>2025-04-29T00:00:00.000Z</updated>
         <published>2025-04-29T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274819&amp;idx=1&amp;sn=34b6439cdc3fd7777ef9695072af43b2&amp;chksm=bc480f32541ab5c4cb63657df3571478adac3738b49a56d07f408571896dcaebb9c4ca3adacc&amp;scene=0#rd"/>
         <updated>2024-12-21T00:00:00.000Z</updated>
         <published>2024-12-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小型 Vue 项目，该不该用 Pinia 、Vuex呢？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501590&amp;idx=1&amp;sn=81cc1560b3496d8a7496ea04286aef52&amp;chksm=ce45d287f9325b914c26d5b173e789ca6e3599cbeeff2733aa98435b36fca232a9454d221308#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501590&amp;idx=1&amp;sn=81cc1560b3496d8a7496ea04286aef52&amp;chksm=ce45d287f9325b914c26d5b173e789ca6e3599cbeeff2733aa98435b36fca232a9454d221308#rd"/>
-        <updated>2024-12-20T00:00:00.000Z</updated>
-        <published>2024-12-20T00:00:00.000Z</published>
     </entry>
 </feed>
