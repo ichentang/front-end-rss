@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2025-04-25 22:21:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-11 14:30:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2025-05-09-Big-Node,-VS-Code,-and-Mantine-updates](https://javascriptweekly.com/issues/735) 
+- [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734) 
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733) 
 - [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732) 
 - [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731) 
