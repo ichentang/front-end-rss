@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-03T14:24:00.564Z</updated>
+    <updated>2025-06-04T10:25:11.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS PageSwap PageReveal事件干嘛用的？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/"/>
+        <updated>2025-06-04T00:00:00.000Z</updated>
+        <published>2025-06-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP + Node: The odd couple of backend?]]></title>
         <id>https://nodeweekly.com/issues/580</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
         <id>https://fenghen.me/posts/2025/01/07/opfs-finder/</id>
         <link href="https://fenghen.me/posts/2025/01/07/opfs-finder/"/>
-        <updated>2025-01-07T00:00:00.000Z</updated>
-        <published>2025-01-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
-        <id>https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/</id>
-        <link href="https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
     </entry>
