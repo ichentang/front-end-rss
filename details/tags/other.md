@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-06-20 22:21:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-25 00:29:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583) 
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578) 
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573) 
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566) 
@@ -3472,6 +3473,9 @@
 - [2019-02-25-link-rel=alternate网站换肤功能最佳实现](https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/) 
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) 
+- [2025-06-20-科技爱好者周刊（第-353-期）：苹果的"液态玻璃"是为了-AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html) 
+- [2025-06-13-科技爱好者周刊（第-352-期）：Bug-追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html) 
 - [2024-11-29-科技爱好者周刊（第-327-期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html) 
 - [2024-11-22-科技爱好者周刊（第-326-期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html) 
 - [2024-11-08-科技爱好者周刊（第-324-期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html) 
