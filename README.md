@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-25 00:29:53，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-28 00:29:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -32,7 +32,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583) ![](/assets/new.png)  
+- [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)  
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742) ![](/assets/new.png)  
 - [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)  
 - [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)  
 - [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)  
@@ -95,7 +96,6 @@
 - [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)  
 - [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)  
 - [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
-- [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -541,9 +541,9 @@
 </summary>
 
 
-- [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) ![](/assets/new.png)  
-- [2025-06-20-科技爱好者周刊（第-353-期）：苹果的"液态玻璃"是为了-AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html) ![](/assets/new.png)  
-- [2025-06-13-科技爱好者周刊（第-352-期）：Bug-追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html) ![](/assets/new.png)  
+- [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)  
+- [2025-06-20-科技爱好者周刊（第-353-期）：苹果的"液态玻璃"是为了-AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html)  
+- [2025-06-13-科技爱好者周刊（第-352-期）：Bug-追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html)  
 - [2024-11-29-科技爱好者周刊（第-327-期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)  
 - [2024-11-22-科技爱好者周刊（第-326-期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)  
 - [2024-11-15-科技爱好者周刊（第-325-期）：VS-Code-编辑器的下一站是-Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)  
