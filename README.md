@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-01 22:22:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-03 16:30:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -32,7 +32,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584) ![](/assets/new.png)  
+- [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)  
 - [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)  
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
@@ -541,6 +541,7 @@
 </summary>
 
 
+- [2025-06-27-科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) ![](/assets/new.png)  
 - [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)  
 - [2025-06-20-科技爱好者周刊（第-353-期）：苹果的"液态玻璃"是为了-AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html)  
 - [2025-06-13-科技爱好者周刊（第-352-期）：Bug-追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html)  
@@ -560,7 +561,6 @@
 - [2024-09-11-白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html)  
 - [2024-09-06-科技爱好者周刊（第-316-期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)  
 - [2024-08-30-科技爱好者周刊（第-315-期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)  
-- [2024-08-23-科技爱好者周刊（第-314-期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
