@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-03 16:30:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-04 11:20:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,8 +31,8 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -510,6 +510,7 @@
 </summary>
 
 
+- [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/) ![](/assets/new.png)  
 - [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/)  
 - [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)  
 - [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)  
@@ -529,7 +530,6 @@
 - [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  
 - [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)  
 - [2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/)  
-- [2025-02-10-JS-Set新支持了intersection,-union,-difference等方法](https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -541,7 +541,7 @@
 </summary>
 
 
-- [2025-06-27-科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) ![](/assets/new.png)  
+- [2025-06-27-科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)  
 - [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)  
 - [2025-06-20-科技爱好者周刊（第-353-期）：苹果的"液态玻璃"是为了-AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html)  
 - [2025-06-13-科技爱好者周刊（第-352-期）：Bug-追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html)  
