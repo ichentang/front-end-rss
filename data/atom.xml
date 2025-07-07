@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-06T22:21:59.779Z</updated>
+    <updated>2025-07-07T06:35:58.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[视频编辑，如何选择技术方案]]></title>
+        <id>https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/</id>
+        <link href="https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/"/>
+        <updated>2025-07-07T00:00:00.000Z</updated>
+        <published>2025-07-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The dog days of JavaScript summer]]></title>
         <id>https://javascriptweekly.com/issues/743</id>
@@ -317,15 +324,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
-        <id>https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
-        <link href="https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
+        <id>https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
+        <link href="https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
         <updated>2025-02-09T00:00:00.000Z</updated>
         <published>2025-02-09T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
-        <id>https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
-        <link href="https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
+        <id>https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
+        <link href="https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
         <updated>2025-02-09T00:00:00.000Z</updated>
         <published>2025-02-09T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/721"/>
         <updated>2025-01-31T00:00:00.000Z</updated>
         <published>2025-01-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things people get wrong about Electron]]></title>
-        <id>https://nodeweekly.com/issues/564</id>
-        <link href="https://nodeweekly.com/issues/564"/>
-        <updated>2025-01-28T00:00:00.000Z</updated>
-        <published>2025-01-28T00:00:00.000Z</published>
     </entry>
 </feed>
