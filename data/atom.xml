@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-08T14:22:34.858Z</updated>
+    <updated>2025-07-10T10:26:04.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[HTML新search元素,h1规则要变,声明式Shadow DOM]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/"/>
+        <updated>2025-07-10T00:00:00.000Z</updated>
+        <published>2025-07-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A way to get your JSON under control]]></title>
         <id>https://nodeweekly.com/issues/585</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/"/>
         <updated>2025-02-06T00:00:00.000Z</updated>
         <published>2025-02-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A TypeScript release targeted at Node developers]]></title>
-        <id>https://nodeweekly.com/issues/565</id>
-        <link href="https://nodeweekly.com/issues/565"/>
-        <updated>2025-02-04T00:00:00.000Z</updated>
-        <published>2025-02-04T00:00:00.000Z</published>
     </entry>
 </feed>
