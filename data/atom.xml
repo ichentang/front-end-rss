@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-11T16:29:26.456Z</updated>
+    <updated>2025-07-15T16:31:11.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Should Node switch to annual major releases?]]></title>
+        <id>https://nodeweekly.com/issues/586</id>
+        <link href="https://nodeweekly.com/issues/586"/>
+        <updated>2025-07-15T00:00:00.000Z</updated>
+        <published>2025-07-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The details of TC39's last meeting]]></title>
         <id>https://javascriptweekly.com/issues/744</id>
@@ -356,12 +363,5 @@
         <link href="https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
         <updated>2025-02-09T00:00:00.000Z</updated>
         <published>2025-02-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle dabbles in some JavaScript comedy]]></title>
-        <id>https://javascriptweekly.com/issues/722</id>
-        <link href="https://javascriptweekly.com/issues/722"/>
-        <updated>2025-02-07T00:00:00.000Z</updated>
-        <published>2025-02-07T00:00:00.000Z</published>
     </entry>
 </feed>
