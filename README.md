@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-16 00:31:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-16 16:32:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2025-07-15-Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586) ![](/assets/new.png)  
+- [2025-07-15-Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)  
 - [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)  
 - [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)  
 - [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)  
@@ -510,6 +510,7 @@
 </summary>
 
 
+- [2025-07-16-JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/) ![](/assets/new.png)  
 - [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/)  
 - [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/)  
 - [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/)  
@@ -529,7 +530,6 @@
 - [2025-03-17-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/)  
 - [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/)  
 - [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  
-- [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
