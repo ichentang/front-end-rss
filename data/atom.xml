@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-29T16:31:04.232Z</updated>
+    <updated>2025-08-01T16:32:11.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Jumbo-sized JavaScript for issue 747]]></title>
+        <id>https://javascriptweekly.com/issues/747</id>
+        <link href="https://javascriptweekly.com/issues/747"/>
+        <updated>2025-08-01T00:00:00.000Z</updated>
+        <published>2025-08-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An epic rundown of JavaScript engines and runtimes]]></title>
         <id>https://nodeweekly.com/issues/588</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/725"/>
         <updated>2025-02-28T00:00:00.000Z</updated>
         <published>2025-02-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node 23.8 introduces the URL Pattern API]]></title>
-        <id>https://nodeweekly.com/issues/567</id>
-        <link href="https://nodeweekly.com/issues/567"/>
-        <updated>2025-02-25T00:00:00.000Z</updated>
-        <published>2025-02-25T00:00:00.000Z</published>
     </entry>
 </feed>
