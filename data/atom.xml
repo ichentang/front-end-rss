@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-04T04:59:17.091Z</updated>
+    <updated>2025-08-05T16:26:48.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[How JSON.stringify is about to get much faster]]></title>
+        <id>https://nodeweekly.com/issues/589</id>
+        <link href="https://nodeweekly.com/issues/589"/>
+        <updated>2025-08-05T00:00:00.000Z</updated>
+        <published>2025-08-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jumbo-sized JavaScript for issue 747]]></title>
         <id>https://javascriptweekly.com/issues/747</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/"/>
         <updated>2025-03-05T00:00:00.000Z</updated>
         <published>2025-03-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript gets on board with Node's type stripping]]></title>
-        <id>https://nodeweekly.com/issues/568</id>
-        <link href="https://nodeweekly.com/issues/568"/>
-        <updated>2025-03-04T00:00:00.000Z</updated>
-        <published>2025-03-04T00:00:00.000Z</published>
     </entry>
 </feed>
