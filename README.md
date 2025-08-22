@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-20 16:29:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-22 22:21:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -35,7 +35,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749) ![](/assets/new.png)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
@@ -95,7 +96,6 @@
 - [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732)  
 - [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731)  
 - [2025-04-04-The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)  
-- [2025-03-28-The-tale-of-a-bizarre-bug-encountered-in-Google-Docs](https://javascriptweekly.com/issues/729)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -634,7 +634,7 @@
 </summary>
 
 
-- [2025-08-20-互联网“骨干协议”-——-BGP-协议](https://fenghen.me/posts/2025/08/20/bgp/) ![](/assets/new.png)  
+- [2025-08-20-互联网“骨干协议”-——-BGP-协议](https://fenghen.me/posts/2025/08/20/bgp/)  
 - [2025-07-07-视频编辑，如何选择技术方案](https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/)  
 - [2025-04-11-商务合作（帅气博主在线接单）](https://fenghen.me/posts/2025/04/11/business-cooperation/)  
 - [2025-03-29-2025-裸辞计划](https://fenghen.me/posts/2025/03/29/_2025-plan/)  
