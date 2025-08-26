@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-22T14:21:37.367Z</updated>
+    <updated>2025-08-26T16:27:37.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[抢先学习大开眼界的CSS corner-shape属性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/"/>
+        <updated>2025-08-26T00:00:00.000Z</updated>
+        <published>2025-08-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Express support coming to Cloudflare Workers?]]></title>
         <id>https://nodeweekly.com/issues/590</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/570"/>
         <updated>2025-03-18T00:00:00.000Z</updated>
         <published>2025-03-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you understand this JavaScript?]]></title>
-        <id>https://javascriptweekly.com/issues/727</id>
-        <link href="https://javascriptweekly.com/issues/727"/>
-        <updated>2025-03-14T00:00:00.000Z</updated>
-        <published>2025-03-14T00:00:00.000Z</published>
     </entry>
 </feed>
