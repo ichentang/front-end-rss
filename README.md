@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-30 00:26:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-01 16:31:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -35,7 +35,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)  
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -76,7 +76,7 @@
 </summary>
 
 
-- [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750) ![](/assets/new.png)  
+- [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
 - [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
@@ -634,26 +634,26 @@
 </summary>
 
 
+- [2025-09-01-ZingAI.video-在线口播视频剪辑](https://fenghen.me/posts/2025/09/01/overview/) ![](/assets/new.png)  
 - [2025-08-20-互联网“骨干协议”-——-BGP-协议](https://fenghen.me/posts/2025/08/20/bgp/)  
 - [2025-07-07-视频编辑，如何选择技术方案](https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/)  
 - [2025-04-11-商务合作（帅气博主在线接单）](https://fenghen.me/posts/2025/04/11/business-cooperation/)  
 - [2025-03-29-2025-裸辞计划](https://fenghen.me/posts/2025/03/29/_2025-plan/)  
-- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
-- [2025-02-09-从-React-看前端-UI-代码范式革命](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
+- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
 - [2025-02-09-从-React-看前端-UI-代码范式革命](https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
-- [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://hughfenghen.github.io/posts/2025/01/22/proxy-switch-cli/)  
+- [2025-02-09-从-React-看前端-UI-代码范式革命](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
 - [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://fenghen.me/posts/2025/01/22/proxy-switch-cli/)  
-- [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/)  
+- [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://hughfenghen.github.io/posts/2025/01/22/proxy-switch-cli/)  
 - [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://fenghen.me/posts/2025/01/07/opfs-finder/)  
-- [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released-en/)  
-- [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/)  
-- [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://fenghen.me/posts/2024/10/31/webav-v1-released-en/)  
+- [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/)  
 - [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://fenghen.me/posts/2024/10/31/webav-v1-released/)  
-- [2024-10-28-Pure-Web-Video-Editing](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor-en/)  
-- [2024-10-28-纯-Web-视频剪辑](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/)  
-- [2024-10-28-Pure-Web-Video-Editing](https://fenghen.me/posts/2024/10/28/webav-video-editor-en/)  
+- [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://fenghen.me/posts/2024/10/31/webav-v1-released-en/)  
+- [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/)  
+- [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released-en/)  
 - [2024-10-28-纯-Web-视频剪辑](https://fenghen.me/posts/2024/10/28/webav-video-editor/)  
+- [2024-10-28-Pure-Web-Video-Editing](https://fenghen.me/posts/2024/10/28/webav-video-editor-en/)  
+- [2024-10-28-纯-Web-视频剪辑](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/)  
 - [......【查看更多】......](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
