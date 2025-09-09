@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-06 00:24:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-10 00:27:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592) ![](/assets/new.png)  
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
 - [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)  
@@ -64,7 +65,6 @@
 - [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
-- [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -76,7 +76,7 @@
 </summary>
 
 
-- [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751) ![](/assets/new.png)  
+- [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)  
 - [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
 - [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
