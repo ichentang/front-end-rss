@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-11T16:26:42.770Z</updated>
+    <updated>2025-09-12T16:22:33.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Package efficiency and dependency hygiene]]></title>
+        <id>https://javascriptweekly.com/issues/752</id>
+        <link href="https://javascriptweekly.com/issues/752"/>
+        <updated>2025-09-12T00:00:00.000Z</updated>
+        <published>2025-09-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A significant supply chain attack on the npm ecosystem]]></title>
         <id>https://nodeweekly.com/issues/592</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/574"/>
         <updated>2025-04-15T00:00:00.000Z</updated>
         <published>2025-04-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOM新特性之caretPositionFromPoint API]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/"/>
-        <updated>2025-04-14T00:00:00.000Z</updated>
-        <published>2025-04-14T00:00:00.000Z</published>
     </entry>
 </feed>
