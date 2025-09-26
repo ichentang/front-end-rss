@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-19T14:20:20.609Z</updated>
+    <updated>2025-09-26T14:21:22.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[The first browser with JavaScript landed 30 years ago]]></title>
+        <id>https://javascriptweekly.com/issues/754</id>
+        <link href="https://javascriptweekly.com/issues/754"/>
+        <updated>2025-09-26T00:00:00.000Z</updated>
+        <published>2025-09-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS scroll-target-group加:target-current滚动菜单自动高亮]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/576"/>
         <updated>2025-04-29T00:00:00.000Z</updated>
         <published>2025-04-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光速了解HTML shadowrootmode等属性的作用]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/"/>
-        <updated>2025-04-28T00:00:00.000Z</updated>
-        <published>2025-04-28T00:00:00.000Z</published>
     </entry>
 </feed>

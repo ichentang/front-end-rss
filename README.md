@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-19 22:20:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-26 22:21:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -76,7 +76,8 @@
 </summary>
 
 
-- [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753) ![](/assets/new.png)  
+- [2025-09-26-The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754) ![](/assets/new.png)  
+- [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)  
 - [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)  
 - [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)  
 - [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
@@ -95,7 +96,6 @@
 - [2025-05-23-A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)  
 - [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736)  
 - [2025-05-09-Big-Node,-VS-Code,-and-Mantine-updates](https://javascriptweekly.com/issues/735)  
-- [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
