@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-17 22:21:38。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-18 00:27:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -546,6 +546,7 @@
 - [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
 - [【Node-Weekly】A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449)
+- [【JavaScript-Weekly】A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)
 - [【JavaScript-Weekly】Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)
 - [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
 - [【JavaScript-Weekly】AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594)
@@ -561,7 +562,6 @@
 - [【前端早读课】【第3099期】如何实现在-Web-中渲染-Word-文档](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266840&idx=1&sn=50a10f27e42fe8fa66a1226e6dec7514&chksm=bd48c69c8a3f4f8a28f4fc90d303d1b96371dfe7bff07f2a41501119b70202664627028bd294#rd)
 - [【前端早读课】【第3097期】VisualViewport-实现-Mac-触控板的缩放检测](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266777&idx=1&sn=582eb98257e0826fc6a6cc28daba1b9d&chksm=bd48c75d8a3f4e4b611ce5c49d999d34b9b6e97e4b0233221b992d1cb5154b35b810df707007#rd)
 - [【前端早读课】【早说】避免无谓会议,做有效果的review](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266013&idx=2&sn=1bcc2b82aad1d9262373355c733c31e1&chksm=bd48c2598a3f4b4fef42933f5aa721f339c316708af871d8845a5fa9b9c0024f15f12c33e764#rd)
-- [【前端早读课】【第3067期】Chrome-117-DevTools新功能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266009&idx=1&sn=ab9d2c0aa36b2346f71f0b1acdbebf94&chksm=bd48c25d8a3f4b4b19245fe4c7b39e9843ecad41a47067aa031a59482783d78fd4225780d29b#rd)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
