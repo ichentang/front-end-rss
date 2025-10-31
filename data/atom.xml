@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-10-28T16:30:43.632Z</updated>
+    <updated>2025-10-31T18:32:40.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[TypeScript and JavaScript dominate on GitHub in 2025]]></title>
+        <id>https://javascriptweekly.com/issues/759</id>
+        <link href="https://javascriptweekly.com/issues/759"/>
+        <updated>2025-10-31T00:00:00.000Z</updated>
+        <published>2025-10-31T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The reality of porting Deno code to Node]]></title>
         <id>https://nodeweekly.com/issues/598</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/582"/>
         <updated>2025-06-17T00:00:00.000Z</updated>
         <published>2025-06-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS ::scroll-button ::scroll-marker伪元素又是干嘛用的？]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/"/>
-        <updated>2025-06-13T00:00:00.000Z</updated>
-        <published>2025-06-13T00:00:00.000Z</published>
     </entry>
 </feed>
