@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-11-25T18:35:34.181Z</updated>
+    <updated>2025-11-28T08:32:30.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[醒醒，该使用CookieStore新建和管理cookie了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/"/>
+        <updated>2025-11-28T00:00:00.000Z</updated>
+        <published>2025-11-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巧用CSS ::details-content伪元素实现任意展开动画]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/744"/>
         <updated>2025-07-11T00:00:00.000Z</updated>
         <published>2025-07-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML新search元素,h1规则要变,声明式Shadow DOM]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/"/>
-        <updated>2025-07-10T00:00:00.000Z</updated>
-        <published>2025-07-10T00:00:00.000Z</published>
     </entry>
 </feed>
