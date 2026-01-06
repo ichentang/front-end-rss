@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-01-05 16:38:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-07 02:37:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767) ![](/assets/new.png)  
 - [2025-12-19-The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)  
 - [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)  
 - [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)  
@@ -95,7 +96,6 @@
 - [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
 - [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
-- [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2026-01-05-学会使用CSSStyleSheet构造CSS样式](https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/) ![](/assets/new.png)  
+- [2026-01-05-学会使用CSSStyleSheet构造CSS样式](https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/)  
 - [2025-12-29-今日学习CSS-style样式查询及其range范围语法](https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/)  
 - [2025-12-22-补全不足，CSS锚点定位支持锚定容器回退检测了](https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/)  
 - [2025-12-12-CSS-progress函数简介](https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/)  
