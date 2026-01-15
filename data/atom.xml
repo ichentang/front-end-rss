@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-13T18:36:24.095Z</updated>
+    <updated>2026-01-15T16:39:39.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[A new guide to configuring Node packages]]></title>
+        <id>https://nodeweekly.com/issues/607</id>
+        <link href="https://nodeweekly.com/issues/607"/>
+        <updated>2026-01-15T00:00:00.000Z</updated>
+        <published>2026-01-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A new JavaScript engine from Fabrice Bellard]]></title>
         <id>https://javascriptweekly.com/issues/767</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/"/>
         <updated>2025-08-26T00:00:00.000Z</updated>
         <published>2025-08-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Express support coming to Cloudflare Workers?]]></title>
-        <id>https://nodeweekly.com/issues/590</id>
-        <link href="https://nodeweekly.com/issues/590"/>
-        <updated>2025-08-19T00:00:00.000Z</updated>
-        <published>2025-08-19T00:00:00.000Z</published>
     </entry>
 </feed>
