@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-01-16T14:27:38.665Z</updated>
+    <updated>2026-01-19T04:54:41.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS text-decoration-inset属性首发简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/"/>
+        <updated>2026-01-19T00:00:00.000Z</updated>
+        <published>2026-01-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纯CSS实现折线连接两个任意元素效果]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[HTML之快速了解hidden=until-found的作用]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/"/>
-        <updated>2025-08-29T00:00:00.000Z</updated>
-        <published>2025-08-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest on Oracle's hold on JavaScript]]></title>
-        <id>https://javascriptweekly.com/issues/750</id>
-        <link href="https://javascriptweekly.com/issues/750"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
