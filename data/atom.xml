@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-06T13:08:57.438Z</updated>
+    <updated>2026-02-10T17:06:50.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[A fast, modern way to browse and compare npm packages]]></title>
+        <id>https://javascriptweekly.com/issues/772</id>
+        <link href="https://javascriptweekly.com/issues/772"/>
+        <updated>2026-02-10T00:00:00.000Z</updated>
+        <published>2026-02-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS text-box属性又是干嘛用的？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/753"/>
         <updated>2025-09-19T00:00:00.000Z</updated>
         <published>2025-09-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pnpm adds support for delayed dependency updates]]></title>
-        <id>https://nodeweekly.com/issues/593</id>
-        <link href="https://nodeweekly.com/issues/593"/>
-        <updated>2025-09-16T00:00:00.000Z</updated>
-        <published>2025-09-16T00:00:00.000Z</published>
     </entry>
 </feed>
