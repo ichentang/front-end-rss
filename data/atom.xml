@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-12T10:52:31.625Z</updated>
+    <updated>2026-02-12T19:08:20.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[JS正则表达式y标识符之粘性匹配]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/"/>
+        <updated>2026-02-12T00:00:00.000Z</updated>
+        <published>2026-02-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An experimental Node environment in the browser]]></title>
+        <id>https://nodeweekly.com/issues/611</id>
+        <link href="https://nodeweekly.com/issues/611"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <published>2026-02-12T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/754"/>
         <updated>2025-09-26T00:00:00.000Z</updated>
         <published>2025-09-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS scroll-target-group加:target-current滚动菜单自动高亮]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/"/>
-        <updated>2025-09-19T00:00:00.000Z</updated>
-        <published>2025-09-19T00:00:00.000Z</published>
     </entry>
 </feed>
