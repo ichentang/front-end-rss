@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-02-13 03:08:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-18 01:01:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2026-02-12-An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611) ![](/assets/new.png)  
+- [2026-02-12-An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611)  
 - [2026-02-05-Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610)  
 - [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609)  
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773) ![](/assets/new.png)  
 - [2026-02-10-A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772)  
 - [2026-02-03-Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)  
 - [2026-01-27-What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770)  
@@ -95,7 +96,6 @@
 - [2025-10-10-Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)  
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)  
 - [2025-09-26-The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)  
-- [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
