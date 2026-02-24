@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-23T14:51:51.308Z</updated>
+    <updated>2026-02-24T19:07:30.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Oxfmt beta: 30x faster than Prettier, 100% compatible]]></title>
+        <id>https://javascriptweekly.com/issues/774</id>
+        <link href="https://javascriptweekly.com/issues/774"/>
+        <updated>2026-02-24T00:00:00.000Z</updated>
+        <published>2026-02-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Halving Node.js memory usage with pointer compression]]></title>
         <id>https://nodeweekly.com/issues/612</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/755"/>
         <updated>2025-10-03T00:00:00.000Z</updated>
         <published>2025-10-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Node with Cloudflare Workers]]></title>
-        <id>https://nodeweekly.com/issues/594</id>
-        <link href="https://nodeweekly.com/issues/594"/>
-        <updated>2025-09-30T00:00:00.000Z</updated>
-        <published>2025-09-30T00:00:00.000Z</published>
     </entry>
 </feed>
