@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-25T05:24:09.629Z</updated>
+    <updated>2026-02-26T14:51:17.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AdonisJS v7 brings batteries-included framework upgrades]]></title>
+        <id>https://nodeweekly.com/issues/613</id>
+        <link href="https://nodeweekly.com/issues/613"/>
+        <updated>2026-02-26T00:00:00.000Z</updated>
+        <published>2026-02-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oxfmt beta: 30x faster than Prettier, 100% compatible]]></title>
         <id>https://javascriptweekly.com/issues/774</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/595"/>
         <updated>2025-10-07T00:00:00.000Z</updated>
         <published>2025-10-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 19.2 is in the building]]></title>
-        <id>https://javascriptweekly.com/issues/755</id>
-        <link href="https://javascriptweekly.com/issues/755"/>
-        <updated>2025-10-03T00:00:00.000Z</updated>
-        <published>2025-10-03T00:00:00.000Z</published>
     </entry>
 </feed>
