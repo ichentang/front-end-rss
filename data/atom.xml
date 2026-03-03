@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-02-27T13:07:33.712Z</updated>
+    <updated>2026-03-03T18:57:03.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[External import maps, a big Bun release, and Node.js schedule changes]]></title>
+        <id>https://javascriptweekly.com/issues/775</id>
+        <link href="https://javascriptweekly.com/issues/775"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <published>2026-03-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AdonisJS v7 brings batteries-included framework upgrades]]></title>
         <id>https://nodeweekly.com/issues/613</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/756"/>
         <updated>2025-10-10T00:00:00.000Z</updated>
         <published>2025-10-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm security best practices to consider]]></title>
-        <id>https://nodeweekly.com/issues/595</id>
-        <link href="https://nodeweekly.com/issues/595"/>
-        <updated>2025-10-07T00:00:00.000Z</updated>
-        <published>2025-10-07T00:00:00.000Z</published>
     </entry>
 </feed>
