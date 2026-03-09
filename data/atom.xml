@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-05T18:07:51.277Z</updated>
+    <updated>2026-03-09T10:50:42.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[HTML dialog元素新支持了closedBy属性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/"/>
+        <updated>2026-03-09T00:00:00.000Z</updated>
+        <published>2026-03-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 25.8 adds permission model audit mode]]></title>
         <id>https://nodeweekly.com/issues/614</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/757"/>
         <updated>2025-10-17T00:00:00.000Z</updated>
         <published>2025-10-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing Python apps into Node]]></title>
-        <id>https://nodeweekly.com/issues/596</id>
-        <link href="https://nodeweekly.com/issues/596"/>
-        <updated>2025-10-14T00:00:00.000Z</updated>
-        <published>2025-10-14T00:00:00.000Z</published>
     </entry>
 </feed>
