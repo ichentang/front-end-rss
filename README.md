@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-03-19 22:52:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-25 03:08:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616) ![](/assets/new.png)  
+- [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)  
 - [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)  
 - [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)  
 - [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778) ![](/assets/new.png)  
 - [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)  
 - [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776)  
 - [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775)  
@@ -95,7 +96,6 @@
 - [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)  
 - [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)  
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)  
-- [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
