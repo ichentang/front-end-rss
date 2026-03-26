@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-03-24T19:08:54.193Z</updated>
+    <updated>2026-03-26T13:26:01.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[How TypeScript 6.0 affects Node developers]]></title>
+        <id>https://nodeweekly.com/issues/617</id>
+        <link href="https://nodeweekly.com/issues/617"/>
+        <updated>2026-03-26T00:00:00.000Z</updated>
+        <published>2026-03-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript 6.0, Next.js 16.2, and a new Node.js runtime]]></title>
         <id>https://javascriptweekly.com/issues/778</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/759"/>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <published>2025-10-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The reality of porting Deno code to Node]]></title>
-        <id>https://nodeweekly.com/issues/598</id>
-        <link href="https://nodeweekly.com/issues/598"/>
-        <updated>2025-10-28T00:00:00.000Z</updated>
-        <published>2025-10-28T00:00:00.000Z</published>
     </entry>
 </feed>

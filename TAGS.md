@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-25 03:08:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-26 21:26:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -110,6 +110,7 @@
 
 
 
+- [【Node-Weekly】How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)
 - [【Node-Weekly】One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)
 - [【Node-Weekly】TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)
 - [【Node-Weekly】A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)
@@ -129,7 +130,6 @@
 - [【JavaScript-Weekly】TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)
 - [【JavaScript-Weekly】Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)
 - [【JavaScript-Weekly】Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)
-- [【JavaScript-Weekly】Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
