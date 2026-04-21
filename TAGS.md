@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-17 17:22:35。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-22 01:09:35。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -334,6 +334,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)
 - [【JavaScript-Weekly】What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)
 - [【JavaScript-Weekly】What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770)
 - [【JavaScript-Weekly】A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)
 - [【JavaScript-Weekly】The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)
 - [【JavaScript-Weekly】Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)
-- [【JavaScript-Weekly】The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
