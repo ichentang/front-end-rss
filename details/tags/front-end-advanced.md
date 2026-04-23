@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-23 17:47:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-23 23:57:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-04-23-Playwright's-exciting-new-page.screencast-API](https://nodeweekly.com/issues/621) 
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540) 
 - [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441) 
 - [2025-07-11-The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744) 
