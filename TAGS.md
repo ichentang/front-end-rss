@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-27 18:20:43。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-29 01:48:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -334,6 +334,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】What’s-actually-new-in-JavaScript-and-what’s-coming-next](https://javascriptweekly.com/issues/783)
 - [【JavaScript-Weekly】Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)
 - [【JavaScript-Weekly】What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)
 - [【JavaScript-Weekly】What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)
 - [【JavaScript-Weekly】How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)
 - [【JavaScript-Weekly】The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)
-- [【JavaScript-Weekly】Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
