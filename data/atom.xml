@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-28T17:48:48.146Z</updated>
+    <updated>2026-04-30T14:05:32.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[pnpm 11.0, AVA 8.0, and a Node 26 delay]]></title>
+        <id>https://nodeweekly.com/issues/622</id>
+        <link href="https://nodeweekly.com/issues/622"/>
+        <updated>2026-04-30T00:00:00.000Z</updated>
+        <published>2026-04-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s actually new in JavaScript (and what’s coming next)]]></title>
         <id>https://javascriptweekly.com/issues/783</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/765"/>
         <updated>2025-12-12T00:00:00.000Z</updated>
         <published>2025-12-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Seattle Times is using pnpm]]></title>
-        <id>https://nodeweekly.com/issues/604</id>
-        <link href="https://nodeweekly.com/issues/604"/>
-        <updated>2025-12-09T00:00:00.000Z</updated>
-        <published>2025-12-09T00:00:00.000Z</published>
     </entry>
 </feed>
