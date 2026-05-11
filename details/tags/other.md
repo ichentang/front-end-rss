@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-07 22:23:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 11:53:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3455,6 +3455,7 @@
 - [2018-05-08-活用-Shader，让你的页面更小，更炫，更快](https://fed.taobao.org/blog/2018/05/08/optimizing-page-performance-with-shader/) 
 - [2018-02-27-淘宝技术部-2018-实习生内部推荐启动啦](https://fed.taobao.org/blog/2018/02/27/2018-intern-recruitment/) 
 - [2017-07-05-LevelDB-实现分析](https://fed.taobao.org/blog/2017/07/05/leveldb-analysis/) 
+- [2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/) 
 - [2026-03-17-浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/) 
 - [2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/) 
 - [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/) 
