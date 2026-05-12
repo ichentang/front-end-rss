@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-11T03:53:54.510Z</updated>
+    <updated>2026-05-12T18:02:19.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Cryptographically valid malware hits npm]]></title>
+        <id>https://javascriptweekly.com/issues/785</id>
+        <link href="https://javascriptweekly.com/issues/785"/>
+        <updated>2026-05-12T00:00:00.000Z</updated>
+        <published>2026-05-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 26.0 ships Temporal; Node 26.1 brings FFI]]></title>
         <id>https://nodeweekly.com/issues/623</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/"/>
         <updated>2025-12-22T00:00:00.000Z</updated>
         <published>2025-12-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript Bundler Grand Prix]]></title>
-        <id>https://javascriptweekly.com/issues/766</id>
-        <link href="https://javascriptweekly.com/issues/766"/>
-        <updated>2025-12-19T00:00:00.000Z</updated>
-        <published>2025-12-19T00:00:00.000Z</published>
     </entry>
 </feed>
