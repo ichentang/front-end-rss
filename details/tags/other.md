@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-18 18:11:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-20 02:08:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -41,6 +41,7 @@
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) 
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420) 
 - [2021-12-09-Security](https://nodeweekly.com/issues/417) 
+- [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786) 
 - [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773) 
 - [2026-01-20-A-big-week-for-jQuery](https://javascriptweekly.com/issues/769) 
 - [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768) 
