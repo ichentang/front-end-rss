@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-19T18:08:15.358Z</updated>
+    <updated>2026-05-21T16:39:37.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Should we rewrite Node.js in Rust?]]></title>
+        <id>https://nodeweekly.com/issues/625</id>
+        <link href="https://nodeweekly.com/issues/625"/>
+        <updated>2026-05-21T00:00:00.000Z</updated>
+        <published>2026-05-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[光标的形状也能设置了，就是CSS caret-shape属性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/767"/>
         <updated>2026-01-06T00:00:00.000Z</updated>
         <published>2026-01-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学会使用CSSStyleSheet构造CSS样式]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/"/>
-        <updated>2026-01-05T00:00:00.000Z</updated>
-        <published>2026-01-05T00:00:00.000Z</published>
     </entry>
 </feed>
