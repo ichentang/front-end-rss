@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-22 00:39:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-24 15:27:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -35,7 +35,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)  
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2026-05-21-Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625) ![](/assets/new.png)  
+- [2026-05-21-Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625)  
 - [2026-05-14-Let's-go-deep-into-Node's-internals](https://nodeweekly.com/issues/624)  
 - [2026-05-07-Node-26.0-ships-Temporal;-Node-26.1-brings-FFI](https://nodeweekly.com/issues/623)  
 - [2026-04-30-pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622)  
@@ -634,26 +634,26 @@
 </summary>
 
 
+- [2026-05-24-创新视频剪辑交互：二维时间轴-+-文字轨](https://fenghen.me/posts/2026/05/24/dimcut/) ![](/assets/new.png)  
 - [2026-04-23-AI-时代的程序与程序员](https://fenghen.me/posts/2026/04/23/ai-era-programmers/)  
 - [2026-02-27-2025-年终总结口播稿](https://fenghen.me/posts/1970/01/01/script/)  
 - [2026-02-03-2025-年终总结](https://fenghen.me/posts/2026/02/03/_2025-year-end-summary/)  
 - [2025-10-17-笔记软件孕育数字分身](https://fenghen.me/posts/2025/10/17/notes-and-digital-twin/)  
 - [2025-09-09-终端开发环境搭建](https://fenghen.me/posts/2025/09/09/terminal-dev-env/)  
-- [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/)  
 - [2025-09-01-ZingAI.video-在线口播视频剪辑](https://fenghen.me/posts/2025/09/01/overview/)  
+- [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/)  
 - [2025-08-20-互联网“骨干协议”-——-BGP-协议](https://fenghen.me/posts/2025/08/20/bgp/)  
 - [2025-07-07-视频编辑，如何选择技术方案](https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/)  
 - [2025-04-11-商务合作（帅气博主在线接单）](https://fenghen.me/posts/2025/04/11/business-cooperation/)  
 - [2025-03-29-2025-裸辞计划](https://fenghen.me/posts/2025/03/29/_2025-plan/)  
-- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
-- [2025-02-09-从-React-看前端-UI-代码范式革命](https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
+- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
 - [2025-02-09-从-React-看前端-UI-代码范式革命](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
-- [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://fenghen.me/posts/2025/01/22/proxy-switch-cli/)  
+- [2025-02-09-从-React-看前端-UI-代码范式革命](https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
 - [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://hughfenghen.github.io/posts/2025/01/22/proxy-switch-cli/)  
-- [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://fenghen.me/posts/2025/01/07/opfs-finder/)  
+- [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://fenghen.me/posts/2025/01/22/proxy-switch-cli/)  
 - [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/)  
-- [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://fenghen.me/posts/2024/10/31/webav-v1-released/)  
+- [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://fenghen.me/posts/2025/01/07/opfs-finder/)  
 - [......【查看更多】......](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
