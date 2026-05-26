@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-25 18:16:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-26 23:43:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -164,8 +164,8 @@
 - [【Node-Weekly】Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)
 - [【Node-Weekly】Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)
 - [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
+- [【JavaScript-Weekly】npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)
 - [【JavaScript-Weekly】Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)
-- [【JavaScript-Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

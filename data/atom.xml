@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-25T10:16:18.754Z</updated>
+    <updated>2026-05-26T15:43:57.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[npm and pnpm introduce staged publishing]]></title>
+        <id>https://javascriptweekly.com/issues/787</id>
+        <link href="https://javascriptweekly.com/issues/787"/>
+        <updated>2026-05-26T00:00:00.000Z</updated>
+        <published>2026-05-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创新视频剪辑交互：二维时间轴 + 文字轨]]></title>
         <id>https://fenghen.me/posts/2026/05/24/dimcut/</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/"/>
         <updated>2026-01-16T00:00:00.000Z</updated>
         <published>2026-01-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new guide to configuring Node packages]]></title>
-        <id>https://nodeweekly.com/issues/607</id>
-        <link href="https://nodeweekly.com/issues/607"/>
-        <updated>2026-01-15T00:00:00.000Z</updated>
-        <published>2026-01-15T00:00:00.000Z</published>
     </entry>
 </feed>
