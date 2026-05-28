@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-26T15:43:57.099Z</updated>
+    <updated>2026-05-28T17:35:04.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Deno hits 76% Node.js compatibility]]></title>
+        <id>https://nodeweekly.com/issues/626</id>
+        <link href="https://nodeweekly.com/issues/626"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <published>2026-05-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[npm and pnpm introduce staged publishing]]></title>
         <id>https://javascriptweekly.com/issues/787</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/"/>
         <updated>2026-01-19T00:00:00.000Z</updated>
         <published>2026-01-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯CSS实现折线连接两个任意元素效果]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/"/>
-        <updated>2026-01-16T00:00:00.000Z</updated>
-        <published>2026-01-16T00:00:00.000Z</published>
     </entry>
 </feed>

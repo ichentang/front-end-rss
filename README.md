@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-05-26 23:43:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-29 01:35:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2026-05-28-Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626) ![](/assets/new.png)  
 - [2026-05-21-Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625)  
 - [2026-05-14-Let's-go-deep-into-Node's-internals](https://nodeweekly.com/issues/624)  
 - [2026-05-07-Node-26.0-ships-Temporal;-Node-26.1-brings-FFI](https://nodeweekly.com/issues/623)  
@@ -64,7 +65,6 @@
 - [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609)  
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)  
 - [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)  
-- [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -76,7 +76,7 @@
 </summary>
 
 
-- [2026-05-26-npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787) ![](/assets/new.png)  
+- [2026-05-26-npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)  
 - [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)  
 - [2026-05-12-Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)  
 - [2026-05-05-Remix-3-drops-React](https://javascriptweekly.com/issues/784)  
