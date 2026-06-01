@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-05-29T12:48:01.113Z</updated>
+    <updated>2026-06-01T17:47:52.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS contrast-color()函数简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/"/>
+        <updated>2026-06-01T00:00:00.000Z</updated>
+        <published>2026-06-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deno hits 76% Node.js compatibility]]></title>
         <id>https://nodeweekly.com/issues/626</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/608"/>
         <updated>2026-01-22T00:00:00.000Z</updated>
         <published>2026-01-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS text-decoration-inset属性首发简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/"/>
-        <updated>2026-01-19T00:00:00.000Z</updated>
-        <published>2026-01-19T00:00:00.000Z</published>
     </entry>
 </feed>
