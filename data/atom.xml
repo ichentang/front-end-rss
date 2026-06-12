@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-11T16:08:48.973Z</updated>
+    <updated>2026-06-12T04:20:10.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 400 期）：rsync 的争论]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html"/>
+        <updated>2026-06-12T00:00:00.000Z</updated>
+        <published>2026-06-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[npm install is (finally) getting safer]]></title>
         <id>https://nodeweekly.com/issues/628</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/771"/>
         <updated>2026-02-03T00:00:00.000Z</updated>
         <published>2026-02-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告别insertBefore，使用moveBefore移动DOM元素]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/"/>
-        <updated>2026-01-30T00:00:00.000Z</updated>
-        <published>2026-01-30T00:00:00.000Z</published>
     </entry>
 </feed>
