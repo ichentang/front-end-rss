@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-16T17:00:53.989Z</updated>
+    <updated>2026-06-18T15:33:12.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Extending Node instead of replacing it]]></title>
+        <id>https://nodeweekly.com/issues/629</id>
+        <link href="https://nodeweekly.com/issues/629"/>
+        <updated>2026-06-18T00:00:00.000Z</updated>
+        <published>2026-06-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flow vs TypeScript in 2026]]></title>
         <id>https://javascriptweekly.com/issues/790</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/"/>
         <updated>2026-02-06T00:00:00.000Z</updated>
         <published>2026-02-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hono tops developer satisfaction, but Express still leads]]></title>
-        <id>https://nodeweekly.com/issues/610</id>
-        <link href="https://nodeweekly.com/issues/610"/>
-        <updated>2026-02-05T00:00:00.000Z</updated>
-        <published>2026-02-05T00:00:00.000Z</published>
     </entry>
 </feed>
