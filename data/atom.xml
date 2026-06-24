@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-23T14:56:11.751Z</updated>
+    <updated>2026-06-24T14:38:10.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS color-scheme属性与light-dark()颜色函数]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/"/>
+        <updated>2026-06-24T00:00:00.000Z</updated>
+        <published>2026-06-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Babel 8.0, Vite 8.1, and TypeScript 7.0 RC]]></title>
         <id>https://javascriptweekly.com/issues/791</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[JS正则表达式y标识符之粘性匹配]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/"/>
-        <updated>2026-02-12T00:00:00.000Z</updated>
-        <published>2026-02-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An experimental Node environment in the browser]]></title>
-        <id>https://nodeweekly.com/issues/611</id>
-        <link href="https://nodeweekly.com/issues/611"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <published>2026-02-12T00:00:00.000Z</published>
     </entry>
