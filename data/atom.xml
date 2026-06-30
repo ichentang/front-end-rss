@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-30T03:59:21.444Z</updated>
+    <updated>2026-06-30T14:25:54.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Will npm v12 reject your .npmrc?]]></title>
+        <id>https://javascriptweekly.com/issues/792</id>
+        <link href="https://javascriptweekly.com/issues/792"/>
+        <updated>2026-06-30T00:00:00.000Z</updated>
+        <published>2026-06-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浏览器原生支持JSON模块导入与开发啦！]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/613"/>
         <updated>2026-02-26T00:00:00.000Z</updated>
         <published>2026-02-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oxfmt beta: 30x faster than Prettier, 100% compatible]]></title>
-        <id>https://javascriptweekly.com/issues/774</id>
-        <link href="https://javascriptweekly.com/issues/774"/>
-        <updated>2026-02-24T00:00:00.000Z</updated>
-        <published>2026-02-24T00:00:00.000Z</published>
     </entry>
 </feed>
