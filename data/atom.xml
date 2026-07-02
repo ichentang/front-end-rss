@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-06-30T14:25:54.719Z</updated>
+    <updated>2026-07-02T14:09:32.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[37 CLI best practices for Node devs]]></title>
+        <id>https://nodeweekly.com/issues/631</id>
+        <link href="https://nodeweekly.com/issues/631"/>
+        <updated>2026-07-02T00:00:00.000Z</updated>
+        <published>2026-07-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will npm v12 reject your .npmrc?]]></title>
         <id>https://javascriptweekly.com/issues/792</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/775"/>
         <updated>2026-03-03T00:00:00.000Z</updated>
         <published>2026-03-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AdonisJS v7 brings batteries-included framework upgrades]]></title>
-        <id>https://nodeweekly.com/issues/613</id>
-        <link href="https://nodeweekly.com/issues/613"/>
-        <updated>2026-02-26T00:00:00.000Z</updated>
-        <published>2026-02-26T00:00:00.000Z</published>
     </entry>
 </feed>
