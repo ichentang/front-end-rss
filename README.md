@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-02 22:09:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-03 11:36:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -32,7 +32,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2026-07-02-37-CLI-best-practices-for-Node-devs](https://nodeweekly.com/issues/631) ![](/assets/new.png)  
+- [2026-07-02-37-CLI-best-practices-for-Node-devs](https://nodeweekly.com/issues/631)  
 - [2026-06-25-Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)  
 - [2026-06-18-Extending-Node-instead-of-replacing-it](https://nodeweekly.com/issues/629)  
 - [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)  
@@ -541,6 +541,7 @@
 </summary>
 
 
+- [2026-07-03-科技爱好者周刊（第-402-期）：我在智念-AI-的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) ![](/assets/new.png)  
 - [2026-06-30-Dario-Amodei：AI-开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)  
 - [2026-06-26-科技爱好者周刊（第-401-期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)  
 - [2026-06-12-科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)  
@@ -560,7 +561,6 @@
 - [2024-10-31-AI-开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)  
 - [2024-10-25-科技爱好者周刊（第-322-期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)  
 - [2024-10-18-科技爱好者周刊（第-321-期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)  
-- [2024-10-11-科技爱好者周刊（第-320-期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
