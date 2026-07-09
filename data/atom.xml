@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-09T03:37:40.870Z</updated>
+    <updated>2026-07-09T15:16:26.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[前端快讯：setHTML()和Element.startViewTransition已支持]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/"/>
+        <updated>2026-07-09T00:00:00.000Z</updated>
+        <published>2026-07-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm v12 and TypeScript 7 released]]></title>
+        <id>https://nodeweekly.com/issues/632</id>
+        <link href="https://nodeweekly.com/issues/632"/>
         <updated>2026-07-09T00:00:00.000Z</updated>
         <published>2026-07-09T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/"/>
         <updated>2026-03-09T00:00:00.000Z</updated>
         <published>2026-03-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node 25.8 adds permission model audit mode]]></title>
-        <id>https://nodeweekly.com/issues/614</id>
-        <link href="https://nodeweekly.com/issues/614"/>
-        <updated>2026-03-05T00:00:00.000Z</updated>
-        <published>2026-03-05T00:00:00.000Z</published>
     </entry>
 </feed>
