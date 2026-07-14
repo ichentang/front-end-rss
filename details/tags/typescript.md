@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-10 15:38:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-14 23:24:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -18,6 +18,7 @@
 - [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524) 
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439) 
 - [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424) 
+- [2026-07-14-npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794) 
 - [2026-06-23-Babel-8.0,-Vite-8.1,-and-TypeScript-7.0-RC](https://javascriptweekly.com/issues/791) 
 - [2026-06-16-Flow-vs-TypeScript-in-2026](https://javascriptweekly.com/issues/790) 
 - [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778) 

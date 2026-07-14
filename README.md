@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-07-10 15:38:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-14 23:24:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -32,7 +32,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2026-07-14-npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794) ![](/assets/new.png)  
 - [2026-07-07-What's-new-in-ECMAScript-2026](https://javascriptweekly.com/issues/793)  
 - [2026-06-30-Will-npm-v12-reject-your-.npmrc?](https://javascriptweekly.com/issues/792)  
 - [2026-06-23-Babel-8.0,-Vite-8.1,-and-TypeScript-7.0-RC](https://javascriptweekly.com/issues/791)  
@@ -95,7 +96,6 @@
 - [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)  
 - [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776)  
 - [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775)  
-- [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -541,7 +541,7 @@
 </summary>
 
 
-- [2026-07-10-科技爱好者周刊（第-403-期）：为什么-Dropbox-不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html) ![](/assets/new.png)  
+- [2026-07-10-科技爱好者周刊（第-403-期）：为什么-Dropbox-不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)  
 - [2026-07-03-科技爱好者周刊（第-402-期）：我在智念-AI-的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html)  
 - [2026-06-30-Dario-Amodei：AI-开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html)  
 - [2026-06-26-科技爱好者周刊（第-401-期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html)  

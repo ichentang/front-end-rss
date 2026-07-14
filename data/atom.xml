@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-10T07:38:28.850Z</updated>
+    <updated>2026-07-14T15:24:46.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[npm 12, TypeScript 7, and Bun in Rust]]></title>
+        <id>https://javascriptweekly.com/issues/794</id>
+        <link href="https://javascriptweekly.com/issues/794"/>
+        <updated>2026-07-14T00:00:00.000Z</updated>
+        <published>2026-07-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端快讯：setHTML()和Element.startViewTransition已支持]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/776"/>
         <updated>2026-03-10T00:00:00.000Z</updated>
         <published>2026-03-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML dialog元素新支持了closedBy属性]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/"/>
-        <updated>2026-03-09T00:00:00.000Z</updated>
-        <published>2026-03-09T00:00:00.000Z</published>
     </entry>
 </feed>
