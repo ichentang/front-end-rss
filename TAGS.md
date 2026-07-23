@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-23 18:25:32。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-24 01:25:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -326,6 +326,7 @@
 
 
 
+- [【Node-Weekly】Domenic-Denicola's-modern-dev-setup](https://nodeweekly.com/issues/634)
 - [【Node-Weekly】AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)
 - [【Node-Weekly】How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)
 - [【Node-Weekly】An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)
 - [【JavaScript-Weekly】Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)
 - [【JavaScript-Weekly】Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)
-- [【JavaScript-Weekly】How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
