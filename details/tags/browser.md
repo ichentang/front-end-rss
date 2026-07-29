@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-28 22:15:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-29 14:33:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -490,6 +490,7 @@
 - [2020-12-02-CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag) 
 - [2019-08-16-VSCode原理解析---断点调试](https://fed.taobao.org/blog/taofed/do71ct/vscode-debug-source-analyse) 
 - [2019-08-15-VSCode原理解析---断点调试](https://fed.taobao.org/blog/2019/08/15/vscode-debug-source-analyse/) 
+- [2026-07-29-Screen.isExtended、getScreenDetails与多显示器开发](https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/) 
 - [2025-11-28-醒醒，该使用CookieStore新建和管理cookie了](https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/) 
 - [2023-01-30-Chrome浏览器原生支持的7种后台服务简介](https://www.zhangxinxu.com/wordpress/2023/01/js-background-services/) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
