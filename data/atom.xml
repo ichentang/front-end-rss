@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-07-29T06:33:53.438Z</updated>
+    <updated>2026-07-30T10:27:39.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[npm to scan packages for malware at publish time]]></title>
+        <id>https://nodeweekly.com/issues/635</id>
+        <link href="https://nodeweekly.com/issues/635"/>
+        <updated>2026-07-30T00:00:00.000Z</updated>
+        <published>2026-07-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Screen.isExtended、getScreenDetails与多显示器开发]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/779"/>
         <updated>2026-03-31T00:00:00.000Z</updated>
         <published>2026-03-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS corner-shape与背景底纹技术]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/"/>
-        <updated>2026-03-30T00:00:00.000Z</updated>
-        <published>2026-03-30T00:00:00.000Z</published>
     </entry>
 </feed>
