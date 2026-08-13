@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-12 00:59:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-14 03:05:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-08-13-Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637) 
 - [2024-12-15-【早阅】创建可访问的CSS艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274640&idx=1&sn=80eaade0f16de8e36fb7c33242b59424&chksm=bcb61a8bd24a6eafb1ae65b0f1d56ba718738e537ec82e1fdac6f21d012ddb87724ae059bfa4&scene=0#rd) 
 - [2024-12-13-【小册】CSS实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274592&idx=2&sn=613f2ec9616a4b8427d7a3924d5dbd2a&chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&scene=0#rd) 
 - [2024-12-11-【第3430期】CSS-如何模拟“真实的”进度条？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274514&idx=1&sn=acea5f08803103c736368a52113b421e&chksm=bc0d36ec994ddb51bea78764d7466ff1e9215de7a55b4c6dbffb010f3def222cc120c9ab12c4&scene=0#rd) 
