@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-14 03:05:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-14 10:10:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -500,6 +500,7 @@
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2020-10-26-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-13-实现a元素href-URL链接自动刷新或新窗口打开](https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/) 
+- [2026-08-14-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) 
 - [2019-09-09-Cookie-的-SameSite-属性](http://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html) 
 - [2019-09-05-curl-的用法指南](http://www.ruanyifeng.com/blog/2019/09/curl-reference.html) 
 - [2019-06-26-远程调试-Android-设备网页](http://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html) 

@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-08-14 03:05:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-14 10:10:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -32,7 +32,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2026-08-13-Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637) ![](/assets/new.png)  
+- [2026-08-13-Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637)  
 - [2026-08-06-Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)  
 - [2026-07-30-npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)  
 - [2026-07-23-Domenic-Denicola's-modern-dev-setup](https://nodeweekly.com/issues/634)  
@@ -541,6 +541,7 @@
 </summary>
 
 
+- [2026-08-14-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) ![](/assets/new.png)  
 - [2026-08-07-科技爱好者周刊（第-407-期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)  
 - [2026-07-31-科技爱好者周刊（第-406-期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)  
 - [2026-07-24-科技爱好者周刊（第-405-期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html)  
@@ -560,7 +561,6 @@
 - [2025-06-13-科技爱好者周刊（第-352-期）：Bug-追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html)  
 - [2024-11-29-科技爱好者周刊（第-327-期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)  
 - [2024-11-22-科技爱好者周刊（第-326-期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)  
-- [2024-11-15-科技爱好者周刊（第-325-期）：VS-Code-编辑器的下一站是-Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
