@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-08-21 18:33:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-26 02:42:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2026-08-25-Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799) ![](/assets/new.png)  
 - [2026-08-11-Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)  
 - [2026-08-04-Reimplementing-htmx-from-scratch](https://javascriptweekly.com/issues/797)  
 - [2026-07-28-Anders-Hejlsberg-demos-TypeScript-7's-10x-speedup](https://javascriptweekly.com/issues/796)  
@@ -95,7 +96,6 @@
 - [2026-04-21-Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)  
 - [2026-04-14-MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)  
 - [2026-04-07-What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)  
-- [2026-03-31-A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2026-08-21-卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/) ![](/assets/new.png)  
+- [2026-08-21-卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/)  
 - [2026-08-14-还在reduce求和吗？该使用Math.sumPrecise方法啦](https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/)  
 - [2026-08-06-background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/)  
 - [2026-08-03-来了来了，Flex/Grid布局的间隙装饰线它来了](https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/)  
