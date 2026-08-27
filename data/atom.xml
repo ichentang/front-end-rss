@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-08-25T18:42:13.069Z</updated>
+    <updated>2026-08-27T20:12:52.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node 26.8 reads and writes ZIP files]]></title>
+        <id>https://nodeweekly.com/issues/638</id>
+        <link href="https://nodeweekly.com/issues/638"/>
+        <updated>2026-08-27T00:00:00.000Z</updated>
+        <published>2026-08-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卧靠，这是好东西，CSS text-fit属性简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/782"/>
         <updated>2026-04-21T00:00:00.000Z</updated>
         <published>2026-04-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[借助mediabunny纯JS实现视频水印、剪裁、合成等功能]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/"/>
-        <updated>2026-04-17T00:00:00.000Z</updated>
-        <published>2026-04-17T00:00:00.000Z</published>
     </entry>
 </feed>
