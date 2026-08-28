@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-08-28 04:12:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-28 14:00:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -32,7 +32,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2026-08-27-Node-26.8-reads-and-writes-ZIP-files](https://nodeweekly.com/issues/638) ![](/assets/new.png)  
+- [2026-08-27-Node-26.8-reads-and-writes-ZIP-files](https://nodeweekly.com/issues/638)  
 - [2026-08-13-Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637)  
 - [2026-08-06-Node.js-26.7,-vlt-1.0,-and-Shai-Hulud-Returns](https://nodeweekly.com/issues/636)  
 - [2026-07-30-npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)  
@@ -541,6 +541,7 @@
 </summary>
 
 
+- [2026-08-28-科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) ![](/assets/new.png)  
 - [2026-08-21-科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)  
 - [2026-08-14-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)  
 - [2026-08-07-科技爱好者周刊（第-407-期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)  
@@ -560,7 +561,6 @@
 - [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)  
 - [2025-06-20-科技爱好者周刊（第-353-期）：苹果的"液态玻璃"是为了-AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html)  
 - [2025-06-13-科技爱好者周刊（第-352-期）：Bug-追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html)  
-- [2024-11-29-科技爱好者周刊（第-327-期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
