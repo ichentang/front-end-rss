@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-08-28 14:00:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-29 04:04:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,8 +31,8 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -510,6 +510,7 @@
 </summary>
 
 
+- [2026-08-28-超级Web特性HTML-in-Canvas初体验](https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/) ![](/assets/new.png)  
 - [2026-08-21-卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/)  
 - [2026-08-14-还在reduce求和吗？该使用Math.sumPrecise方法啦](https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/)  
 - [2026-08-06-background-clip升级，支持边框或文字应用背景](https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/)  
@@ -529,7 +530,6 @@
 - [2026-05-18-光标的形状也能设置了，就是CSS-caret-shape属性](https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/)  
 - [2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/)  
 - [2026-05-06-JSON.rawJSON方法的作用是什么？](https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/)  
-- [2026-04-27-如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -541,7 +541,7 @@
 </summary>
 
 
-- [2026-08-28-科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) ![](/assets/new.png)  
+- [2026-08-28-科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)  
 - [2026-08-21-科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)  
 - [2026-08-14-科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)  
 - [2026-08-07-科技爱好者周刊（第-407-期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)  
