@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-03T14:14:22.170Z</updated>
+    <updated>2026-09-03T19:11:10.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Bun now passes 80.5% of Node's test suite]]></title>
+        <id>https://nodeweekly.com/issues/639</id>
+        <link href="https://nodeweekly.com/issues/639"/>
+        <updated>2026-09-03T00:00:00.000Z</updated>
+        <published>2026-09-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超级Web特性HTML-in-Canvas初体验]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/"/>
         <updated>2026-04-27T00:00:00.000Z</updated>
         <published>2026-04-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playwright's exciting new page.screencast API]]></title>
-        <id>https://nodeweekly.com/issues/621</id>
-        <link href="https://nodeweekly.com/issues/621"/>
-        <updated>2026-04-23T00:00:00.000Z</updated>
-        <published>2026-04-23T00:00:00.000Z</published>
     </entry>
 </feed>
