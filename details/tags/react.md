@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-18 00:33:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-18 12:31:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -670,6 +670,7 @@
 - [2018-03-13-Rax-系列教程（长列表）](https://fed.taobao.org/blog/2018/03/13/long-list-in-rax/) 
 - [2018-02-06-Rax-系列教程（native-扫盲）](https://fed.taobao.org/blog/2018/02/06/rax-native-guide/) 
 - [2018-01-18-Rax-系列教程（上手）](https://fed.taobao.org/blog/2018/01/18/rax-in-action/) 
+- [2026-09-18-科技爱好者周刊（第-413-期）：再见了，React-Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) 
 - [2020-09-15-轻松学会-React-钩子：以-useEffect-为例](http://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html) 
 - [2019-09-01-React-Hooks-入门教程](http://www.ruanyifeng.com/blog/2019/09/react-hooks.html) 
 - [2020-08-08-Vue-Composition-API-和-React-Hooks-对比](http://www.yyyweb.com/5386.html) 
