@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-29 16:05:24。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-30 00:23:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -335,6 +335,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】A-ha's-Take-on-Me,-recreated-in-pure-JavaScript](https://javascriptweekly.com/issues/804)
 - [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)
 - [【JavaScript-Weekly】Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)
 - [【JavaScript-Weekly】Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770)
 - [【JavaScript-Weekly】A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)
 - [【JavaScript-Weekly】The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)
-- [【JavaScript-Weekly】Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
