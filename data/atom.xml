@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-27T13:40:11.278Z</updated>
+    <updated>2026-09-29T08:05:25.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[独家：CSS背景色单方向扩展技术]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/"/>
+        <updated>2026-09-29T00:00:00.000Z</updated>
+        <published>2026-09-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12 Node built-ins that replace npm packages]]></title>
         <id>https://nodeweekly.com/issues/642</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/"/>
         <updated>2026-05-18T00:00:00.000Z</updated>
         <published>2026-05-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's go deep into Node's internals]]></title>
-        <id>https://nodeweekly.com/issues/624</id>
-        <link href="https://nodeweekly.com/issues/624"/>
-        <updated>2026-05-14T00:00:00.000Z</updated>
-        <published>2026-05-14T00:00:00.000Z</published>
     </entry>
 </feed>
