@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-09-30 20:10:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-07 00:34:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2026-10-06-Why-don't-more-developers-'use-the-platform'?](https://javascriptweekly.com/issues/805) ![](/assets/new.png)  
 - [2026-09-29-A-ha's-Take-on-Me,-recreated-in-pure-JavaScript](https://javascriptweekly.com/issues/804)  
 - [2026-09-22-JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)  
 - [2026-09-15-Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)  
@@ -95,7 +96,6 @@
 - [2026-06-02-How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)  
 - [2026-05-26-npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)  
 - [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)  
-- [2026-05-12-Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2026-09-30-一个视频彻底看懂CSS-scroll-axis-lock-none的作用](https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/) ![](/assets/new.png)  
+- [2026-09-30-一个视频彻底看懂CSS-scroll-axis-lock-none的作用](https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/)  
 - [2026-09-29-独家：CSS背景色单方向扩展技术](https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/)  
 - [2026-09-17-CSS-rex、rlh、ric等根家族单位简介](https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/)  
 - [2026-09-15-新时代下的tooltip提示效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/)  

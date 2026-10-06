@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-30 20:10:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-07 00:34:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -41,6 +41,7 @@
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) 
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420) 
 - [2021-12-09-Security](https://nodeweekly.com/issues/417) 
+- [2026-10-06-Why-don't-more-developers-'use-the-platform'?](https://javascriptweekly.com/issues/805) 
 - [2026-09-08-When-8-chunks-weigh-more-than-355](https://javascriptweekly.com/issues/801) 
 - [2026-09-01-How-to-fit-Minesweeper-into-247-bytes](https://javascriptweekly.com/issues/800) 
 - [2026-08-25-Bun-1.4-is-finally-fresh-out-of-the-oven](https://javascriptweekly.com/issues/799) 
