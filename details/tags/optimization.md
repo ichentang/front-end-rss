@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-29 20:32:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-30 20:24:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -252,6 +252,7 @@
 - [2022-02-22-谈谈性能优化---从用户体验聊起](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495366&idx=1&sn=41f2849f52833604e3eaee140450633c&chksm=ec47a505db302c13cdd878931907fed5d718e826e8bb883a3d5801d78c180971501cd730d77b#rd) 
 - [2022-01-17-性能优化，有时候是件体力活](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495141&idx=1&sn=fe00c09a0887589271e62927dfc40ccb&chksm=ec47a626db302f30e0fa923ee6881f08c3fcd12bfab3f6a8e272a03ea0f87c3e3f231c0f024c#rd) 
 - [2021-09-08-VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10) 
+- [2026-10-30-懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/) 
 - [2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/) 
 - [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/) 
 - [2023-08-25-不一样的"代码拆分"+"预加载"实现应用性能及体验兼得](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899728&idx=1&sn=39b1222c086d4fb6a14ae906e71611c0&chksm=8c5fa51ebb282c083c831ac790b71450808576b603aabe36653db6249522ded42543e380f352#rd) 
