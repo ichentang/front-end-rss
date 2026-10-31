@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-30T12:24:14.576Z</updated>
+    <updated>2026-10-31T21:12:37.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -48,6 +48,13 @@
         <link href="https://javascriptweekly.com/issues/807"/>
         <updated>2026-10-20T00:00:00.000Z</updated>
         <published>2026-10-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 415 期）：3D 版《看不见的城市》]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html"/>
+        <updated>2026-10-16T00:00:00.000Z</updated>
+        <published>2026-10-16T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[The NodeConf EU 2026 talks are online]]></title>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/"/>
         <updated>2026-06-22T00:00:00.000Z</updated>
         <published>2026-06-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extending Node instead of replacing it]]></title>
-        <id>https://nodeweekly.com/issues/629</id>
-        <link href="https://nodeweekly.com/issues/629"/>
-        <updated>2026-06-18T00:00:00.000Z</updated>
-        <published>2026-06-18T00:00:00.000Z</published>
     </entry>
 </feed>

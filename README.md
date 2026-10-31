@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-10-30 20:24:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-01 05:12:37，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,8 +31,8 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2026-10-30-懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/) ![](/assets/new.png)  
+- [2026-10-30-懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/)  
 - [2026-10-26-算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/)  
 - [2026-10-14-Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/)  
 - [2026-10-08-Document-Picture-in-Picture-API与任意元素画中画实现](https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/)  
@@ -541,6 +541,9 @@
 </summary>
 
 
+- [2026-10-30-科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) ![](/assets/new.png)  
+- [2026-10-23-科技爱好者周刊（第-416-期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) ![](/assets/new.png)  
+- [2026-10-16-科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) ![](/assets/new.png)  
 - [2026-09-18-科技爱好者周刊（第-413-期）：再见了，React-Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)  
 - [2026-09-11-科技爱好者周刊（第-412-期）：禁止-issue，只用-PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)  
 - [2026-09-04-科技爱好者周刊（第-411-期）：OpenClaw-2.0-是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)  
@@ -558,9 +561,6 @@
 - [2026-06-12-科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)  
 - [2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)  
 - [2026-05-29-科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)  
-- [2026-05-22-科技爱好者周刊（第-397-期）：财富正在向-AI-集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)  
-- [2025-07-04-科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)  
-- [2025-06-27-科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

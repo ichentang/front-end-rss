@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-30 20:24:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-01 05:12:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -86,6 +86,7 @@
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
 - [2018-10-03-搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/) 
+- [2026-10-16-科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) 
 - [2023-06-01-大型-3D-互动项目开发和优化实践](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899652&idx=1&sn=52054970054de61813c43c7d714d1075&chksm=8c5fa54abb282c5cf65441b58dc0ecb35e86d5d4d2f5a67defb0cce8ccc6879bc274209123cb#rd) 
 - [2022-06-23-元宇宙-3D-开荒场---探味奇遇记](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898975&idx=1&sn=447ed70e12f96e2bfc3d1ac52eed9597&chksm=8c5fa611bb282f07b5b5c683c19064859b2cd44845934a5c89aa75f761673f8fa9b7bc575c9b#rd) 
 - [2022-03-24-WebGL-的-Hello-World](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898496&idx=2&sn=695902624edb4a4f7ad4d08879923b14&chksm=8c5fa0cebb2829d82714a544d3fabd34733b16bb2fa827d8f7dc29a429f75aec180ef68656e7#rd) 

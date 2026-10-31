@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-30 20:24:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-01 05:12:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3508,6 +3508,8 @@
 - [2019-02-25-link-rel=alternate网站换肤功能最佳实现](https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/) 
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2026-10-30-科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) 
+- [2026-10-23-科技爱好者周刊（第-416-期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) 
 - [2026-09-11-科技爱好者周刊（第-412-期）：禁止-issue，只用-PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) 
 - [2026-09-04-科技爱好者周刊（第-411-期）：OpenClaw-2.0-是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) 
 - [2026-08-28-科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) 
