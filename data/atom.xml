@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-03T19:15:48.279Z</updated>
+    <updated>2026-11-05T14:19:18.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node 27's first alpha brings breaking changes]]></title>
+        <id>https://nodeweekly.com/issues/646</id>
+        <link href="https://nodeweekly.com/issues/646"/>
+        <updated>2026-11-05T00:00:00.000Z</updated>
+        <published>2026-11-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Claude spends building with 12 JavaScript stacks]]></title>
         <id>https://javascriptweekly.com/issues/809</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/"/>
         <updated>2026-06-24T00:00:00.000Z</updated>
         <published>2026-06-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babel 8.0, Vite 8.1, and TypeScript 7.0 RC]]></title>
-        <id>https://javascriptweekly.com/issues/791</id>
-        <link href="https://javascriptweekly.com/issues/791"/>
-        <updated>2026-06-23T00:00:00.000Z</updated>
-        <published>2026-06-23T00:00:00.000Z</published>
     </entry>
 </feed>

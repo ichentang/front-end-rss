@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-04 03:15:48。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-05 22:19:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646)
 - [【Node-Weekly】Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645)
 - [【Node-Weekly】The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)
 - [【Node-Weekly】When-worker-threads-beat-processes-for-Node-efficiency](https://nodeweekly.com/issues/643)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】Node-moves-toward-Temporal-by-default](https://nodeweekly.com/issues/620)
 - [【Node-Weekly】Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619)
 - [【Node-Weekly】Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)
-- [【Node-Weekly】Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
