@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-06T02:03:40.135Z</updated>
+    <updated>2026-11-06T11:55:19.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS拖拽交互必用setPointerCapture方法]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/"/>
+        <updated>2026-11-06T00:00:00.000Z</updated>
+        <published>2026-11-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 27's first alpha brings breaking changes]]></title>
         <id>https://nodeweekly.com/issues/646</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/630"/>
         <updated>2026-06-25T00:00:00.000Z</updated>
         <published>2026-06-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS color-scheme属性与light-dark()颜色函数]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/"/>
-        <updated>2026-06-24T00:00:00.000Z</updated>
-        <published>2026-06-24T00:00:00.000Z</published>
     </entry>
 </feed>
