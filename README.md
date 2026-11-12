@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-11-11 01:32:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-12 20:20:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2026-11-12-22-Node,-Bun-and-Deno-stacks-benchmarked](https://nodeweekly.com/issues/647) ![](/assets/new.png)  
 - [2026-11-05-Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646)  
 - [2026-10-29-Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645)  
 - [2026-10-15-The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)  
@@ -64,7 +65,6 @@
 - [2026-06-25-Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)  
 - [2026-06-18-Extending-Node-instead-of-replacing-it](https://nodeweekly.com/issues/629)  
 - [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)  
-- [2026-06-04-Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -76,7 +76,7 @@
 </summary>
 
 
-- [2026-11-10-How-X-Twitter-is-rebuilding-its-web-app](https://javascriptweekly.com/issues/810) ![](/assets/new.png)  
+- [2026-11-10-How-X-Twitter-is-rebuilding-its-web-app](https://javascriptweekly.com/issues/810)  
 - [2026-11-03-What-Claude-spends-building-with-12-JavaScript-stacks](https://javascriptweekly.com/issues/809)  
 - [2026-10-27-Rebuilding-the-original-GTA-engine-in-JavaScript](https://javascriptweekly.com/issues/808)  
 - [2026-10-20-The-up-to-8x-faster-Rust-port-of-TypeScript](https://javascriptweekly.com/issues/807)  
