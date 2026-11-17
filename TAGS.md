@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-16 23:14:01。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-18 04:38:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -546,6 +546,7 @@
 - [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
 - [【Node-Weekly】A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449)
+- [【JavaScript-Weekly】The-top-10-things-AI-gets-wrong-in-web-development](https://javascriptweekly.com/issues/811)
 - [【JavaScript-Weekly】Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)
 - [【JavaScript-Weekly】A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)
 - [【JavaScript-Weekly】Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)
@@ -561,7 +562,6 @@
 - [【前端早读课】【招聘】抖音前端架构团队招FE/Client/Server/QA](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267675&idx=2&sn=9cd6b2d3aad73626692bfae28bcab48b&chksm=bd48fbdf8a3f72c946883730c444398e93e0beddc1a02b537472bc99aac3ad3e9308954b7142#rd)
 - [【前端早读课】【第3111期】如何优雅的控制网页请求的优先级？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267319&idx=1&sn=eadbd36f91aec135f458936efdd0ac6e&chksm=bd48f9738a3f7065107c7a89bd729726acd9bf350dcd9357ec58552b6554846dd52a286be801#rd)
 - [【前端早读课】【第3099期】如何实现在-Web-中渲染-Word-文档](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266840&idx=1&sn=50a10f27e42fe8fa66a1226e6dec7514&chksm=bd48c69c8a3f4f8a28f4fc90d303d1b96371dfe7bff07f2a41501119b70202664627028bd294#rd)
-- [【前端早读课】【第3097期】VisualViewport-实现-Mac-触控板的缩放检测](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266777&idx=1&sn=582eb98257e0826fc6a6cc28daba1b9d&chksm=bd48c75d8a3f4e4b611ce5c49d999d34b9b6e97e4b0233221b992d1cb5154b35b810df707007#rd)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
