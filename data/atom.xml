@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-23T06:36:22.925Z</updated>
+    <updated>2026-11-24T17:13:11.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Bundler-free npm imports in the browser]]></title>
+        <id>https://javascriptweekly.com/issues/812</id>
+        <link href="https://javascriptweekly.com/issues/812"/>
+        <updated>2026-11-24T00:00:00.000Z</updated>
+        <published>2026-11-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Time-travel debugging for Node]]></title>
         <id>https://nodeweekly.com/issues/648</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/632"/>
         <updated>2026-07-09T00:00:00.000Z</updated>
         <published>2026-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's new in ECMAScript 2026]]></title>
-        <id>https://javascriptweekly.com/issues/793</id>
-        <link href="https://javascriptweekly.com/issues/793"/>
-        <updated>2026-07-07T00:00:00.000Z</updated>
-        <published>2026-07-07T00:00:00.000Z</published>
     </entry>
 </feed>
