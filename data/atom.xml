@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-24T17:13:11.989Z</updated>
+    <updated>2026-11-26T18:13:25.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[node:sqlite marked stable]]></title>
+        <id>https://nodeweekly.com/issues/649</id>
+        <link href="https://nodeweekly.com/issues/649"/>
+        <updated>2026-11-26T00:00:00.000Z</updated>
+        <published>2026-11-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bundler-free npm imports in the browser]]></title>
         <id>https://javascriptweekly.com/issues/812</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端快讯：setHTML()和Element.startViewTransition已支持]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/"/>
-        <updated>2026-07-09T00:00:00.000Z</updated>
-        <published>2026-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm v12 and TypeScript 7 released]]></title>
-        <id>https://nodeweekly.com/issues/632</id>
-        <link href="https://nodeweekly.com/issues/632"/>
         <updated>2026-07-09T00:00:00.000Z</updated>
         <published>2026-07-09T00:00:00.000Z</published>
     </entry>

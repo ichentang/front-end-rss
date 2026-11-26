@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-25 01:13:11。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-27 02:13:25。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】node:sqlite-marked-stable](https://nodeweekly.com/issues/649)
 - [【Node-Weekly】Time-travel-debugging-for-Node](https://nodeweekly.com/issues/648)
 - [【Node-Weekly】22-Node,-Bun-and-Deno-stacks-benchmarked](https://nodeweekly.com/issues/647)
 - [【Node-Weekly】Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625)
 - [【Node-Weekly】Let's-go-deep-into-Node's-internals](https://nodeweekly.com/issues/624)
 - [【Node-Weekly】Node-26.0-ships-Temporal;-Node-26.1-brings-FFI](https://nodeweekly.com/issues/623)
-- [【Node-Weekly】Node-moves-toward-Temporal-by-default](https://nodeweekly.com/issues/620)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
